@@ -1,0 +1,1162 @@
+  77000: system.l2: cmd: tag:0 	data:12 224 6 0 0 176 160 227  	set:155 	way:0 	size:8 
+  87500: system.cpu.icache: cmd: tag:0 	data:12 224 6 0 0 176 160 227  	set:155 	way:0 	size:8 
+ 155000: system.l2: cmd: tag:0 	data:0 224 160 227 4 16 157 228  	set:156 	way:0 	size:8 
+ 165500: system.cpu.icache: cmd: tag:0 	data:0 224 160 227 4 16 157 228  	set:156 	way:0 	size:8 
+ 242000: system.l2: cmd: tag:7 	data:2 0 0 0 91 255 255 190  	set:5076 	way:0 	size:8 
+ 252500: system.cpu.dcache: cmd: tag:15 	data:2 0 0 0 91 255 255 190  	set:980 	way:0 	size:8 
+ 320000: system.l2: cmd: tag:0 	data:13 32 160 225 4 32 45 229  	set:157 	way:0 	size:8 
+ 330500: system.cpu.icache: cmd: tag:0 	data:13 32 160 225 4 32 45 229  	set:157 	way:0 	size:8 
+ 332500: system.cpu.dcache: cmd: tag: 15  data: 164  set: 980  way: 0  size:  4 
+ 400000: system.l2: cmd: tag:0 	data:4 0 45 229 16 192 159 229  	set:158 	way:0 	size:8 
+ 410500: system.cpu.icache: cmd: tag:0 	data:4 0 45 229 16 192 159 229  	set:158 	way:0 	size:8 
+ 478000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5075 	way:0 	size:8 
+ 488500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:979 	way:0 	size:8 
+ 488500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 979  way: 0  size:  4 
+ 557000: system.l2: cmd: tag:0 	data:71 71 0 235 84 212 1 0  	set:161 	way:0 	size:8 
+ 567500: system.cpu.dcache: cmd: tag:0 	data:71 71 0 235 84 212 1 0  	set:161 	way:0 	size:8 
+ 635000: system.l2: cmd: tag:0 	data:4 192 45 229 12 0 159 229  	set:159 	way:0 	size:8 
+ 645500: system.cpu.icache: cmd: tag:0 	data:4 192 45 229 12 0 159 229  	set:159 	way:0 	size:8 
+ 646500: system.cpu.dcache: cmd: tag: 15  data: 84  set: 979  way: 0  size:  4 
+ 715000: system.l2: cmd: tag:0 	data:192 1 1 0 180 211 1 0  	set:162 	way:0 	size:8 
+ 725500: system.cpu.dcache: cmd: tag:0 	data:192 1 1 0 180 211 1 0  	set:162 	way:0 	size:8 
+ 793000: system.l2: cmd: tag:0 	data:12 48 159 229 228 49 0 235  	set:160 	way:0 	size:8 
+ 803500: system.cpu.icache: cmd: tag:0 	data:12 48 159 229 228 49 0 235  	set:160 	way:0 	size:8 
+ 887000: system.l2: cmd: tag:0 	data:2 128 189 232 32 195 159 229  	set:6547 	way:0 	size:8 
+ 897500: system.cpu.icache: cmd: tag:6 	data:2 128 189 232 32 195 159 229  	set:403 	way:0 	size:8 
+ 965000: system.l2: cmd: tag:0 	data:243 255 255 234 0 0 0 0  	set:6648 	way:0 	size:8 
+ 975500: system.cpu.dcache: cmd: tag:1 	data:243 255 255 234 0 0 0 0  	set:2552 	way:0 	size:8 
+1043000: system.l2: cmd: tag:0 	data:3 64 160 225 0 0 92 227  	set:6548 	way:0 	size:8 
+1053500: system.cpu.icache: cmd: tag:6 	data:3 64 160 225 0 0 92 227  	set:404 	way:0 	size:8 
+1122000: system.l2: cmd: tag:0 	data:0 48 156 21 12 48 160 1  	set:6549 	way:0 	size:8 
+1132500: system.cpu.icache: cmd: tag:6 	data:0 48 156 21 12 48 160 1  	set:405 	way:0 	size:8 
+1201000: system.l2: cmd: tag:0 	data:19 63 111 17 128 64 45 233  	set:6550 	way:0 	size:8 
+1211500: system.cpu.icache: cmd: tag:6 	data:19 63 111 17 128 64 45 233  	set:406 	way:0 	size:8 
+1280000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5074 	way:0 	size:8 
+1290500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:978 	way:0 	size:8 
+1290500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 978  way: 0  size:  4 
+1291500: system.cpu.dcache: cmd: tag: 15  data: 8  set: 978  way: 0  size:  4 
+1359000: system.l2: cmd: tag:0 	data:74 223 77 226 6 0 141 233  	set:6551 	way:0 	size:8 
+1369500: system.cpu.icache: cmd: tag:6 	data:74 223 77 226 6 0 141 233  	set:407 	way:0 	size:8 
+1438000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5037 	way:0 	size:8 
+1448500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:941 	way:0 	size:8 
+1448500: system.cpu.dcache: cmd: tag: 15  data: 2  set: 941  way: 0  size:  4 
+1516000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5038 	way:0 	size:8 
+1526500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:942 	way:0 	size:8 
+1526500: system.cpu.dcache: cmd: tag: 15  data: 164  set: 942  way: 0  size:  4 
+1594000: system.l2: cmd: tag:0 	data:4 32 157 229 8 224 157 229  	set:6552 	way:0 	size:8 
+1604500: system.cpu.icache: cmd: tag:6 	data:4 32 157 229 8 224 157 229  	set:408 	way:0 	size:8 
+1675000: system.l2: cmd: tag:0 	data:12 0 141 229 1 0 130 226  	set:6553 	way:0 	size:8 
+1685500: system.cpu.icache: cmd: tag:6 	data:12 0 141 229 1 0 130 226  	set:409 	way:0 	size:8 
+1686500: system.cpu.dcache: cmd: tag: 15  data: 192  set: 942  way: 0  size:  4 
+1755000: system.l2: cmd: tag:0 	data:240 34 159 229 0 1 142 224  	set:6554 	way:0 	size:8 
+1765500: system.cpu.icache: cmd: tag:6 	data:240 34 159 229 0 1 142 224  	set:410 	way:0 	size:8 
+1833000: system.l2: cmd: tag:0 	data:72 112 9 0 156 104 9 0  	set:6649 	way:0 	size:8 
+1843500: system.cpu.dcache: cmd: tag:1 	data:72 112 9 0 156 104 9 0  	set:2553 	way:0 	size:8 
+1912000: system.l2: cmd: tag:0 	data:0 0 130 229 56 17 157 229  	set:6555 	way:0 	size:8 
+1922500: system.cpu.icache: cmd: tag:6 	data:0 0 130 229 56 17 157 229  	set:411 	way:0 	size:8 
+2004000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3593 	way:0 	size:8 
+2014500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3593 	way:0 	size:8 
+2014500: system.cpu.dcache: cmd: tag: 14  data: 176  set: 3593  way: 0  size:  4 
+2084000: system.l2: cmd: tag:0 	data:228 194 159 229 228 34 159 229  	set:6556 	way:0 	size:8 
+2094500: system.cpu.icache: cmd: tag:6 	data:228 194 159 229 228 34 159 229  	set:412 	way:0 	size:8 
+2164000: system.l2: cmd: tag:0 	data:212 79 9 0 140 133 9 0  	set:6650 	way:0 	size:8 
+2174500: system.cpu.dcache: cmd: tag:1 	data:212 79 9 0 140 133 9 0  	set:2554 	way:0 	size:8 
+2242000: system.l2: cmd: tag:0 	data:163 50 160 17 0 48 140 229  	set:6557 	way:0 	size:8 
+2252500: system.cpu.icache: cmd: tag:6 	data:163 50 160 17 0 48 140 229  	set:413 	way:0 	size:8 
+2321000: system.l2: cmd: tag:7 	data:112 101 9 0 1 0 0 0  	set:3347 	way:0 	size:8 
+2331500: system.cpu.dcache: cmd: tag:14 	data:112 101 9 0 1 0 0 0  	set:3347 	way:0 	size:8 
+2331500: system.cpu.dcache: cmd: tag: 14  data: 0  set: 3347  way: 0  size:  4 
+2399000: system.l2: cmd: tag:0 	data:0 16 130 229 4 48 144 228  	set:6558 	way:0 	size:8 
+2409500: system.cpu.icache: cmd: tag:6 	data:0 16 130 229 4 48 144 228  	set:414 	way:0 	size:8 
+2491000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:2554 	way:0 	size:8 
+2501500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:2554 	way:1 	size:8 
+2501500: system.cpu.dcache: cmd: tag: 14  data: 164  set: 2554  way: 1  size:  4 
+2570000: system.l2: cmd: tag:7 	data:0 0 0 0 16 0 0 0  	set:5078 	way:0 	size:8 
+2580500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 16 0 0 0  	set:982 	way:0 	size:8 
+2648000: system.l2: cmd: tag:0 	data:0 0 83 227 252 255 255 26  	set:6559 	way:0 	size:8 
+2658500: system.cpu.icache: cmd: tag:6 	data:0 0 83 227 252 255 255 26  	set:415 	way:0 	size:8 
+2735000: system.l2: cmd: tag:0 	data:130 113 0 235 200 50 159 229  	set:6560 	way:0 	size:8 
+2745500: system.cpu.icache: cmd: tag:6 	data:130 113 0 235 200 50 159 229  	set:416 	way:0 	size:8 
+2827000: system.l2: cmd: tag:2 	data:0 48 144 229 160 36 159 229  	set:4706 	way:0 	size:8 
+2837500: system.cpu.icache: cmd: tag:20 	data:0 48 144 229 160 36 159 229  	set:610 	way:0 	size:8 
+2907000: system.l2: cmd: tag:2 	data:59 255 255 234 120 133 9 0  	set:4855 	way:0 	size:8 
+2917500: system.cpu.dcache: cmd: tag:5 	data:59 255 255 234 120 133 9 0  	set:759 	way:0 	size:8 
+2985000: system.l2: cmd: tag:2 	data:0 0 83 227 0 0 130 229  	set:4707 	way:0 	size:8 
+2995500: system.cpu.icache: cmd: tag:20 	data:0 0 83 227 0 0 130 229  	set:611 	way:0 	size:8 
+3064000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4271 	way:0 	size:8 
+3074500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:175 	way:0 	size:8 
+3074500: system.cpu.dcache: cmd: tag: 15  data: 180  set: 175  way: 0  size:  4 
+3142000: system.l2: cmd: tag:2 	data:30 255 47 1 0 32 160 227  	set:4708 	way:0 	size:8 
+3152500: system.cpu.icache: cmd: tag:20 	data:30 255 47 1 0 32 160 227  	set:612 	way:0 	size:8 
+3221000: system.l2: cmd: tag:2 	data:240 79 45 233 140 148 159 229  	set:4709 	way:0 	size:8 
+3231500: system.cpu.icache: cmd: tag:20 	data:240 79 45 233 140 148 159 229  	set:613 	way:0 	size:8 
+3299000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5032 	way:0 	size:8 
+3309500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:936 	way:0 	size:8 
+3309500: system.cpu.dcache: cmd: tag: 15  data: 180  set: 936  way: 0  size:  4 
+3377000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5033 	way:0 	size:8 
+3387500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:937 	way:0 	size:8 
+3387500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 937  way: 0  size:  4 
+3388500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 937  way: 0  size:  4 
+3456000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5034 	way:0 	size:8 
+3466500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:938 	way:0 	size:8 
+3466500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 938  way: 0  size:  4 
+3467500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 938  way: 0  size:  4 
+3535000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5035 	way:0 	size:8 
+3545500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:939 	way:0 	size:8 
+3545500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 939  way: 0  size:  4 
+3546500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 939  way: 0  size:  4 
+3614000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5036 	way:0 	size:8 
+3624500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:940 	way:0 	size:8 
+3624500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 940  way: 0  size:  4 
+3625500: system.cpu.dcache: cmd: tag: 15  data: 4  set: 940  way: 0  size:  4 
+3694000: system.l2: cmd: tag:2 	data:160 133 9 0 80 112 9 0  	set:4856 	way:0 	size:8 
+3704500: system.cpu.dcache: cmd: tag:5 	data:160 133 9 0 80 112 9 0  	set:760 	way:0 	size:8 
+3772000: system.l2: cmd: tag:2 	data:140 20 159 229 0 144 153 229  	set:4710 	way:0 	size:8 
+3782500: system.cpu.icache: cmd: tag:20 	data:140 20 159 229 0 144 153 229  	set:614 	way:0 	size:8 
+3852000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4276 	way:0 	size:8 
+3862500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:180 	way:0 	size:8 
+3930000: system.l2: cmd: tag:2 	data:100 208 77 226 56 144 141 229  	set:4711 	way:0 	size:8 
+3940500: system.cpu.icache: cmd: tag:20 	data:100 208 77 226 56 144 141 229  	set:615 	way:0 	size:8 
+4009000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5027 	way:0 	size:8 
+4019500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:931 	way:0 	size:8 
+4019500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 931  way: 0  size:  4 
+4087000: system.l2: cmd: tag:2 	data:0 144 145 229 2 128 160 225  	set:4712 	way:0 	size:8 
+4097500: system.cpu.icache: cmd: tag:20 	data:0 144 145 229 2 128 160 225  	set:616 	way:0 	size:8 
+4165000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3594 	way:0 	size:8 
+4175500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3594 	way:0 	size:8 
+4244000: system.l2: cmd: tag:2 	data:88 144 141 229 4 144 145 229  	set:4713 	way:0 	size:8 
+4254500: system.cpu.icache: cmd: tag:20 	data:88 144 141 229 4 144 145 229  	set:617 	way:0 	size:8 
+4322000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5031 	way:0 	size:8 
+4332500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:935 	way:0 	size:8 
+4332500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 935  way: 0  size:  4 
+4402000: system.l2: cmd: tag:2 	data:2 80 160 225 2 224 160 225  	set:4714 	way:0 	size:8 
+4412500: system.cpu.icache: cmd: tag:20 	data:2 80 160 225 2 224 160 225  	set:618 	way:0 	size:8 
+4481000: system.l2: cmd: tag:2 	data:2 64 160 225 2 192 160 225  	set:4715 	way:0 	size:8 
+4491500: system.cpu.icache: cmd: tag:20 	data:2 64 160 225 2 192 160 225  	set:619 	way:0 	size:8 
+4560000: system.l2: cmd: tag:2 	data:92 144 141 229 8 144 145 229  	set:4716 	way:0 	size:8 
+4570500: system.cpu.icache: cmd: tag:20 	data:92 144 141 229 8 144 145 229  	set:620 	way:0 	size:8 
+4571500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 935  way: 0  size:  4 
+4640000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3595 	way:0 	size:8 
+4650500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3595 	way:0 	size:8 
+4718000: system.l2: cmd: tag:2 	data:88 180 159 229 48 144 141 229  	set:4717 	way:0 	size:8 
+4728500: system.cpu.icache: cmd: tag:20 	data:88 180 159 229 48 144 141 229  	set:621 	way:0 	size:8 
+4796000: system.l2: cmd: tag:2 	data:144 79 9 0 216 79 9 0  	set:4857 	way:0 	size:8 
+4806500: system.cpu.dcache: cmd: tag:5 	data:144 79 9 0 216 79 9 0  	set:761 	way:0 	size:8 
+4875000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5026 	way:0 	size:8 
+4885500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:930 	way:0 	size:8 
+4885500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 930  way: 0  size:  4 
+4953000: system.l2: cmd: tag:2 	data:16 144 145 229 80 116 159 229  	set:4718 	way:0 	size:8 
+4963500: system.cpu.icache: cmd: tag:20 	data:16 144 145 229 80 116 159 229  	set:622 	way:0 	size:8 
+5025000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3596 	way:0 	size:8 
+5035500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3596 	way:0 	size:8 
+5113000: system.l2: cmd: tag:2 	data:80 144 141 229 20 144 145 229  	set:4719 	way:0 	size:8 
+5123500: system.cpu.icache: cmd: tag:20 	data:80 144 141 229 20 144 145 229  	set:623 	way:0 	size:8 
+5205000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5030 	way:0 	size:8 
+5215500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:934 	way:0 	size:8 
+5215500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 934  way: 0  size:  4 
+5285000: system.l2: cmd: tag:2 	data:72 100 159 229 84 144 141 229  	set:4720 	way:0 	size:8 
+5295500: system.cpu.icache: cmd: tag:20 	data:72 100 159 229 84 144 141 229  	set:624 	way:0 	size:8 
+5363000: system.l2: cmd: tag:2 	data:196 133 9 0 120 101 9 0  	set:4858 	way:0 	size:8 
+5373500: system.cpu.dcache: cmd: tag:5 	data:196 133 9 0 120 101 9 0  	set:762 	way:0 	size:8 
+5375500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 934  way: 0  size:  4 
+5443000: system.l2: cmd: tag:2 	data:0 144 155 229 64 164 159 229  	set:4721 	way:0 	size:8 
+5453500: system.cpu.icache: cmd: tag:20 	data:0 144 155 229 64 164 159 229  	set:625 	way:0 	size:8 
+5521000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:2546 	way:0 	size:8 
+5531500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:2546 	way:0 	size:8 
+5601000: system.l2: cmd: tag:2 	data:76 144 141 229 0 144 151 229  	set:4722 	way:0 	size:8 
+5611500: system.cpu.icache: cmd: tag:20 	data:76 144 141 229 0 144 151 229  	set:626 	way:0 	size:8 
+5679000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5029 	way:0 	size:8 
+5689500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:933 	way:0 	size:8 
+5689500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 933  way: 0  size:  4 
+5758000: system.l2: cmd: tag:7 	data:1 0 0 0 0 0 0 1  	set:2555 	way:0 	size:8 
+5768500: system.cpu.dcache: cmd: tag:14 	data:1 0 0 0 0 0 0 1  	set:2555 	way:0 	size:8 
+5836000: system.l2: cmd: tag:2 	data:68 32 141 229 64 144 141 229  	set:4723 	way:0 	size:8 
+5846500: system.cpu.icache: cmd: tag:20 	data:68 32 141 229 64 144 141 229  	set:627 	way:0 	size:8 
+5914000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5028 	way:0 	size:8 
+5924500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:932 	way:0 	size:8 
+5924500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 932  way: 0  size:  4 
+5926500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 932  way: 0  size:  4 
+5994000: system.l2: cmd: tag:2 	data:0 144 150 229 60 32 141 229  	set:4724 	way:0 	size:8 
+6004500: system.cpu.icache: cmd: tag:20 	data:0 144 150 229 60 32 141 229  	set:628 	way:0 	size:8 
+6072000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4280 	way:0 	size:8 
+6082500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:184 	way:0 	size:8 
+6084500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 931  way: 0  size:  4 
+6152000: system.l2: cmd: tag:2 	data:72 144 141 229 36 148 159 229  	set:4725 	way:0 	size:8 
+6162500: system.cpu.icache: cmd: tag:20 	data:72 144 141 229 36 148 159 229  	set:629 	way:0 	size:8 
+6163500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 933  way: 0  size:  4 
+6232000: system.l2: cmd: tag:2 	data:152 133 9 0 124 133 9 0  	set:4859 	way:0 	size:8 
+6242500: system.cpu.dcache: cmd: tag:5 	data:152 133 9 0 124 133 9 0  	set:763 	way:0 	size:8 
+6310000: system.l2: cmd: tag:2 	data:52 32 141 229 0 144 153 229  	set:4726 	way:0 	size:8 
+6320500: system.cpu.icache: cmd: tag:20 	data:52 32 141 229 0 144 153 229  	set:630 	way:0 	size:8 
+6321500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 930  way: 0  size:  4 
+6390000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4275 	way:0 	size:8 
+6400500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:179 	way:0 	size:8 
+6468000: system.l2: cmd: tag:2 	data:44 32 141 229 8 144 141 229  	set:4727 	way:0 	size:8 
+6478500: system.cpu.icache: cmd: tag:20 	data:44 32 141 229 8 144 141 229  	set:631 	way:0 	size:8 
+6546000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5025 	way:0 	size:8 
+6556500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:929 	way:0 	size:8 
+6556500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 929  way: 0  size:  4 
+6625000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5021 	way:0 	size:8 
+6635500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:925 	way:0 	size:8 
+6635500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 925  way: 0  size:  4 
+6703000: system.l2: cmd: tag:2 	data:20 148 159 229 40 32 141 229  	set:4728 	way:0 	size:8 
+6713500: system.cpu.icache: cmd: tag:20 	data:20 148 159 229 40 32 141 229  	set:632 	way:0 	size:8 
+6716500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 929  way: 0  size:  4 
+6784000: system.l2: cmd: tag:2 	data:0 144 153 229 36 32 141 229  	set:4729 	way:0 	size:8 
+6794500: system.cpu.icache: cmd: tag:20 	data:0 144 153 229 36 32 141 229  	set:633 	way:0 	size:8 
+6864000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5024 	way:0 	size:8 
+6874500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:928 	way:0 	size:8 
+6874500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 928  way: 0  size:  4 
+6942000: system.l2: cmd: tag:2 	data:28 32 141 229 20 32 141 229  	set:4730 	way:0 	size:8 
+6952500: system.cpu.icache: cmd: tag:20 	data:28 32 141 229 20 32 141 229  	set:634 	way:0 	size:8 
+7020000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5023 	way:0 	size:8 
+7030500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:927 	way:0 	size:8 
+7030500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 927  way: 0  size:  4 
+7099000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5022 	way:0 	size:8 
+7109500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:926 	way:0 	size:8 
+7109500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 926  way: 0  size:  4 
+7177000: system.l2: cmd: tag:2 	data:12 32 141 229 32 144 141 229  	set:4731 	way:0 	size:8 
+7187500: system.cpu.icache: cmd: tag:20 	data:12 32 141 229 32 144 141 229  	set:635 	way:0 	size:8 
+7188500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 925  way: 0  size:  4 
+7190500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 928  way: 0  size:  4 
+7258000: system.l2: cmd: tag:2 	data:0 144 154 229 4 0 128 226  	set:4732 	way:0 	size:8 
+7268500: system.cpu.icache: cmd: tag:20 	data:0 144 154 229 4 0 128 226  	set:636 	way:0 	size:8 
+7336000: system.l2: cmd: tag:7 	data:0 16 0 0 0 0 0 0  	set:3247 	way:0 	size:8 
+7346500: system.cpu.dcache: cmd: tag:14 	data:0 16 0 0 0 0 0 0  	set:3247 	way:0 	size:8 
+7423000: system.l2: cmd: tag:2 	data:4 144 141 229 236 147 159 229  	set:4733 	way:0 	size:8 
+7433500: system.cpu.icache: cmd: tag:20 	data:4 144 141 229 236 147 159 229  	set:637 	way:0 	size:8 
+7501000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5020 	way:0 	size:8 
+7511500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:924 	way:0 	size:8 
+7511500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 924  way: 0  size:  4 
+7580000: system.l2: cmd: tag:2 	data:172 133 9 0 140 133 9 0  	set:4860 	way:0 	size:8 
+7590500: system.cpu.dcache: cmd: tag:5 	data:172 133 9 0 140 133 9 0  	set:764 	way:0 	size:8 
+7658000: system.l2: cmd: tag:2 	data:0 144 153 229 24 144 141 229  	set:4734 	way:0 	size:8 
+7668500: system.cpu.icache: cmd: tag:20 	data:0 144 153 229 24 144 141 229  	set:638 	way:0 	size:8 
+7736000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4277 	way:0 	size:8 
+7746500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:181 	way:0 	size:8 
+7748500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 927  way: 0  size:  4 
+7816000: system.l2: cmd: tag:2 	data:228 147 159 229 0 144 153 229  	set:4735 	way:0 	size:8 
+7826500: system.cpu.icache: cmd: tag:20 	data:228 147 159 229 0 144 153 229  	set:639 	way:0 	size:8 
+8136000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4273 	way:0 	size:8 
+8146500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:177 	way:0 	size:8 
+8228000: system.l2: cmd: tag:2 	data:16 144 141 229 3 48 67 226  	set:4736 	way:0 	size:8 
+8238500: system.cpu.icache: cmd: tag:20 	data:16 144 141 229 3 48 67 226  	set:640 	way:0 	size:8 
+8239500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 926  way: 0  size:  4 
+8308000: system.l2: cmd: tag:2 	data:30 0 83 227 3 241 159 151  	set:4737 	way:0 	size:8 
+8318500: system.cpu.icache: cmd: tag:20 	data:30 0 83 227 3 241 159 151  	set:641 	way:0 	size:8 
+8387000: system.l2: cmd: tag:2 	data:120 150 3 0 84 150 3 0  	set:4745 	way:0 	size:8 
+8397500: system.cpu.dcache: cmd: tag:5 	data:120 150 3 0 84 150 3 0  	set:649 	way:0 	size:8 
+8465000: system.l2: cmd: tag:2 	data:0 48 144 229 8 0 128 226  	set:4815 	way:0 	size:8 
+8475500: system.cpu.icache: cmd: tag:20 	data:0 48 144 229 8 0 128 226  	set:719 	way:0 	size:8 
+8543000: system.l2: cmd: tag:7 	data:215 120 0 0 17 0 0 0  	set:5079 	way:0 	size:8 
+8553500: system.cpu.dcache: cmd: tag:15 	data:215 120 0 0 17 0 0 0  	set:983 	way:0 	size:8 
+8622000: system.l2: cmd: tag:2 	data:80 48 141 229 0 48 160 227  	set:4816 	way:0 	size:8 
+8632500: system.cpu.icache: cmd: tag:20 	data:80 48 141 229 0 48 160 227  	set:720 	way:0 	size:8 
+8633500: system.cpu.dcache: cmd: tag: 15  data: 215  set: 934  way: 0  size:  4 
+8702000: system.l2: cmd: tag:2 	data:84 48 141 229 1 48 160 227  	set:4817 	way:0 	size:8 
+8712500: system.cpu.icache: cmd: tag:20 	data:84 48 141 229 1 48 160 227  	set:721 	way:0 	size:8 
+8713500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 934  way: 0  size:  4 
+8782000: system.l2: cmd: tag:2 	data:40 48 141 229 4 48 16 229  	set:4818 	way:0 	size:8 
+8792500: system.cpu.icache: cmd: tag:20 	data:40 48 141 229 4 48 16 229  	set:722 	way:0 	size:8 
+8793500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 929  way: 0  size:  4 
+8863000: system.l2: cmd: tag:2 	data:0 0 83 227 88 255 255 26  	set:4819 	way:0 	size:8 
+8873500: system.cpu.icache: cmd: tag:20 	data:0 0 83 227 88 255 255 26  	set:723 	way:0 	size:8 
+8946000: system.l2: cmd: tag:2 	data:149 255 255 234 0 48 144 229  	set:4810 	way:0 	size:8 
+8956500: system.cpu.icache: cmd: tag:20 	data:149 255 255 234 0 48 144 229  	set:714 	way:0 	size:8 
+9024000: system.l2: cmd: tag:7 	data:100 0 0 0 23 0 0 0  	set:5080 	way:0 	size:8 
+9034500: system.cpu.dcache: cmd: tag:15 	data:100 0 0 0 23 0 0 0  	set:984 	way:0 	size:8 
+9102000: system.l2: cmd: tag:2 	data:8 0 128 226 8 48 141 229  	set:4811 	way:0 	size:8 
+9112500: system.cpu.icache: cmd: tag:20 	data:8 0 128 226 8 48 141 229  	set:715 	way:0 	size:8 
+9114500: system.cpu.dcache: cmd: tag: 15  data: 100  set: 925  way: 0  size:  4 
+9182000: system.l2: cmd: tag:2 	data:1 48 160 227 12 48 141 229  	set:4812 	way:0 	size:8 
+9192500: system.cpu.icache: cmd: tag:20 	data:1 48 160 227 12 48 141 229  	set:716 	way:0 	size:8 
+9194500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 925  way: 0  size:  4 
+9262000: system.l2: cmd: tag:2 	data:4 48 16 229 0 0 83 227  	set:4813 	way:0 	size:8 
+9272500: system.cpu.icache: cmd: tag:20 	data:4 48 16 229 0 0 83 227  	set:717 	way:0 	size:8 
+9342000: system.l2: cmd: tag:2 	data:99 255 255 26 140 255 255 234  	set:4814 	way:0 	size:8 
+9352500: system.cpu.icache: cmd: tag:20 	data:99 255 255 26 140 255 255 234  	set:718 	way:0 	size:8 
+9423000: system.l2: cmd: tag:2 	data:156 148 3 0 4 150 3 0  	set:4748 	way:0 	size:8 
+9433500: system.cpu.dcache: cmd: tag:5 	data:156 148 3 0 4 150 3 0  	set:652 	way:0 	size:8 
+9501000: system.l2: cmd: tag:2 	data:169 255 255 234 1 128 160 227  	set:4800 	way:0 	size:8 
+9511500: system.cpu.icache: cmd: tag:20 	data:169 255 255 234 1 128 160 227  	set:704 	way:0 	size:8 
+9579000: system.l2: cmd: tag:2 	data:0 48 144 229 8 0 128 226  	set:4801 	way:0 	size:8 
+9589500: system.cpu.icache: cmd: tag:20 	data:0 48 144 229 8 0 128 226  	set:705 	way:0 	size:8 
+9657000: system.l2: cmd: tag:7 	data:0 0 0 0 25 0 0 0  	set:5081 	way:0 	size:8 
+9667500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 25 0 0 0  	set:985 	way:0 	size:8 
+9750000: system.l2: cmd: tag:2 	data:64 48 141 229 4 48 16 229  	set:4802 	way:0 	size:8 
+9760500: system.cpu.icache: cmd: tag:20 	data:64 48 141 229 4 48 16 229  	set:706 	way:0 	size:8 
+9761500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 932  way: 0  size:  4 
+9831000: system.l2: cmd: tag:2 	data:72 128 141 229 0 0 83 227  	set:4803 	way:0 	size:8 
+9841500: system.cpu.icache: cmd: tag:20 	data:72 128 141 229 0 0 83 227  	set:707 	way:0 	size:8 
+9842500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 933  way: 0  size:  4 
+9911000: system.l2: cmd: tag:2 	data:68 128 141 229 0 192 224 227  	set:4804 	way:0 	size:8 
+9921500: system.cpu.icache: cmd: tag:20 	data:68 128 141 229 0 192 224 227  	set:708 	way:0 	size:8 
+9922500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 932  way: 0  size:  4 
+9991000: system.l2: cmd: tag:2 	data:117 255 255 26 158 255 255 234  	set:4805 	way:0 	size:8 
+10001500: system.cpu.icache: cmd: tag:20 	data:117 255 255 26 158 255 255 234  	set:709 	way:0 	size:8 
+10072000: system.l2: cmd: tag:2 	data:156 148 3 0 144 148 3 0  	set:4749 	way:0 	size:8 
+10082500: system.cpu.dcache: cmd: tag:5 	data:156 148 3 0 144 148 3 0  	set:653 	way:0 	size:8 
+10150000: system.l2: cmd: tag:2 	data:1 32 160 227 0 48 144 229  	set:4754 	way:0 	size:8 
+10160500: system.cpu.icache: cmd: tag:20 	data:1 32 160 227 0 48 144 229  	set:658 	way:0 	size:8 
+10229000: system.l2: cmd: tag:7 	data:71 255 255 190 31 0 0 0  	set:5082 	way:0 	size:8 
+10239500: system.cpu.dcache: cmd: tag:15 	data:71 255 255 190 31 0 0 0  	set:986 	way:0 	size:8 
+10307000: system.l2: cmd: tag:2 	data:76 48 141 229 8 0 128 226  	set:4755 	way:0 	size:8 
+10317500: system.cpu.icache: cmd: tag:20 	data:76 48 141 229 8 0 128 226  	set:659 	way:0 	size:8 
+10318500: system.cpu.dcache: cmd: tag: 15  data: 71  set: 933  way: 0  size:  4 
+10387000: system.l2: cmd: tag:2 	data:4 48 16 229 0 0 83 227  	set:4756 	way:0 	size:8 
+10397500: system.cpu.icache: cmd: tag:20 	data:4 48 16 229 0 0 83 227  	set:660 	way:0 	size:8 
+10467000: system.l2: cmd: tag:2 	data:213 255 255 26 0 0 85 227  	set:4757 	way:0 	size:8 
+10477500: system.cpu.icache: cmd: tag:20 	data:213 255 255 26 0 0 85 227  	set:661 	way:0 	size:8 
+10548000: system.l2: cmd: tag:2 	data:156 148 3 0 156 148 3 0  	set:4752 	way:0 	size:8 
+10558500: system.cpu.dcache: cmd: tag:5 	data:156 148 3 0 156 148 3 0  	set:656 	way:0 	size:8 
+10628000: system.l2: cmd: tag:7 	data:198 255 255 190 15 0 0 0  	set:5083 	way:0 	size:8 
+10638500: system.cpu.dcache: cmd: tag:15 	data:198 255 255 190 15 0 0 0  	set:987 	way:0 	size:8 
+10711000: system.l2: cmd: tag:2 	data:200 150 3 0 164 150 3 0  	set:4744 	way:0 	size:8 
+10721500: system.cpu.dcache: cmd: tag:5 	data:200 150 3 0 164 150 3 0  	set:648 	way:0 	size:8 
+10789000: system.l2: cmd: tag:2 	data:129 255 255 234 0 48 144 229  	set:4820 	way:0 	size:8 
+10799500: system.cpu.icache: cmd: tag:20 	data:129 255 255 234 0 48 144 229  	set:724 	way:0 	size:8 
+10867000: system.l2: cmd: tag:7 	data:87 255 255 190 6 0 0 0  	set:5084 	way:0 	size:8 
+10877500: system.cpu.dcache: cmd: tag:15 	data:87 255 255 190 6 0 0 0  	set:988 	way:0 	size:8 
+10945000: system.l2: cmd: tag:2 	data:8 0 128 226 32 48 141 229  	set:4821 	way:0 	size:8 
+10955500: system.cpu.icache: cmd: tag:20 	data:8 0 128 226 32 48 141 229  	set:725 	way:0 	size:8 
+10957500: system.cpu.dcache: cmd: tag: 15  data: 87  set: 928  way: 0  size:  4 
+11025000: system.l2: cmd: tag:2 	data:1 48 160 227 36 48 141 229  	set:4822 	way:0 	size:8 
+11035500: system.cpu.icache: cmd: tag:20 	data:1 48 160 227 36 48 141 229  	set:726 	way:0 	size:8 
+11037500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 928  way: 0  size:  4 
+11105000: system.l2: cmd: tag:2 	data:4 48 16 229 0 0 83 227  	set:4823 	way:0 	size:8 
+11115500: system.cpu.icache: cmd: tag:20 	data:4 48 16 229 0 0 83 227  	set:727 	way:0 	size:8 
+11185000: system.l2: cmd: tag:2 	data:79 255 255 26 120 255 255 234  	set:4824 	way:0 	size:8 
+11195500: system.cpu.icache: cmd: tag:20 	data:79 255 255 26 120 255 255 234  	set:728 	way:0 	size:8 
+11280000: system.l2: cmd: tag:2 	data:72 151 3 0 156 148 3 0  	set:4740 	way:0 	size:8 
+11290500: system.cpu.dcache: cmd: tag:5 	data:72 151 3 0 156 148 3 0  	set:644 	way:0 	size:8 
+11358000: system.l2: cmd: tag:2 	data:0 48 144 229 4 144 157 229  	set:4841 	way:0 	size:8 
+11368500: system.cpu.icache: cmd: tag:20 	data:0 48 144 229 4 144 157 229  	set:745 	way:0 	size:8 
+11436000: system.l2: cmd: tag:7 	data:0 16 0 0 3 0 0 0  	set:5085 	way:0 	size:8 
+11446500: system.cpu.dcache: cmd: tag:15 	data:0 16 0 0 3 0 0 0  	set:989 	way:0 	size:8 
+11516000: system.l2: cmd: tag:2 	data:0 0 83 227 3 144 160 17  	set:4842 	way:0 	size:8 
+11526500: system.cpu.icache: cmd: tag:20 	data:0 0 83 227 3 144 160 17  	set:746 	way:0 	size:8 
+11595000: system.l2: cmd: tag:2 	data:8 0 128 226 4 48 16 229  	set:4843 	way:0 	size:8 
+11605500: system.cpu.icache: cmd: tag:20 	data:8 0 128 226 4 48 16 229  	set:747 	way:0 	size:8 
+11675000: system.l2: cmd: tag:2 	data:1 80 160 19 0 0 83 227  	set:4844 	way:0 	size:8 
+11685500: system.cpu.icache: cmd: tag:20 	data:1 80 160 19 0 0 83 227  	set:748 	way:0 	size:8 
+11754000: system.l2: cmd: tag:2 	data:4 144 141 229 36 255 255 26  	set:4845 	way:0 	size:8 
+11764500: system.cpu.icache: cmd: tag:20 	data:4 144 141 229 36 255 255 26  	set:749 	way:0 	size:8 
+11765500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 924  way: 0  size:  4 
+11837000: system.l2: cmd: tag:2 	data:33 0 0 234 152 151 3 0  	set:4738 	way:0 	size:8 
+11847500: system.cpu.dcache: cmd: tag:5 	data:33 0 0 234 152 151 3 0  	set:642 	way:0 	size:8 
+11915000: system.l2: cmd: tag:2 	data:0 48 144 229 8 0 128 226  	set:4851 	way:0 	size:8 
+11925500: system.cpu.icache: cmd: tag:20 	data:0 48 144 229 8 0 128 226  	set:755 	way:0 	size:8 
+11993000: system.l2: cmd: tag:7 	data:52 0 1 0 4 0 0 0  	set:5086 	way:0 	size:8 
+12003500: system.cpu.dcache: cmd: tag:15 	data:52 0 1 0 4 0 0 0  	set:990 	way:0 	size:8 
+12072000: system.l2: cmd: tag:2 	data:16 48 141 229 1 48 160 227  	set:4852 	way:0 	size:8 
+12082500: system.cpu.icache: cmd: tag:20 	data:16 48 141 229 1 48 160 227  	set:756 	way:0 	size:8 
+12083500: system.cpu.dcache: cmd: tag: 15  data: 52  set: 926  way: 0  size:  4 
+12152000: system.l2: cmd: tag:2 	data:20 48 141 229 4 48 16 229  	set:4853 	way:0 	size:8 
+12162500: system.cpu.icache: cmd: tag:20 	data:20 48 141 229 4 48 16 229  	set:757 	way:0 	size:8 
+12163500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 926  way: 0  size:  4 
+12233000: system.l2: cmd: tag:2 	data:0 0 83 227 18 255 255 26  	set:4854 	way:0 	size:8 
+12243500: system.cpu.icache: cmd: tag:20 	data:0 0 83 227 18 255 255 26  	set:758 	way:0 	size:8 
+12315000: system.l2: cmd: tag:2 	data:156 148 3 0 116 151 3 0  	set:4739 	way:0 	size:8 
+12325500: system.cpu.dcache: cmd: tag:5 	data:156 148 3 0 116 151 3 0  	set:643 	way:0 	size:8 
+12395000: system.l2: cmd: tag:7 	data:32 0 0 0 5 0 0 0  	set:5087 	way:0 	size:8 
+12405500: system.cpu.dcache: cmd: tag:15 	data:32 0 0 0 5 0 0 0  	set:991 	way:0 	size:8 
+12479000: system.l2: cmd: tag:2 	data:77 255 255 234 0 48 144 229  	set:4846 	way:0 	size:8 
+12489500: system.cpu.icache: cmd: tag:20 	data:77 255 255 234 0 48 144 229  	set:750 	way:0 	size:8 
+12557000: system.l2: cmd: tag:7 	data:7 0 0 0 7 0 0 0  	set:5088 	way:0 	size:8 
+12567500: system.cpu.dcache: cmd: tag:15 	data:7 0 0 0 7 0 0 0  	set:992 	way:0 	size:8 
+12635000: system.l2: cmd: tag:2 	data:8 0 128 226 24 48 141 229  	set:4847 	way:0 	size:8 
+12645500: system.cpu.icache: cmd: tag:20 	data:8 0 128 226 24 48 141 229  	set:751 	way:0 	size:8 
+12647500: system.cpu.dcache: cmd: tag: 15  data: 7  set: 927  way: 0  size:  4 
+12715000: system.l2: cmd: tag:2 	data:1 48 160 227 28 48 141 229  	set:4848 	way:0 	size:8 
+12725500: system.cpu.icache: cmd: tag:20 	data:1 48 160 227 28 48 141 229  	set:752 	way:0 	size:8 
+12727500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 927  way: 0  size:  4 
+12795000: system.l2: cmd: tag:2 	data:4 48 16 229 0 0 83 227  	set:4849 	way:0 	size:8 
+12805500: system.cpu.icache: cmd: tag:20 	data:4 48 16 229 0 0 83 227  	set:753 	way:0 	size:8 
+12889000: system.l2: cmd: tag:2 	data:27 255 255 26 68 255 255 234  	set:4850 	way:0 	size:8 
+12899500: system.cpu.icache: cmd: tag:20 	data:27 255 255 26 68 255 255 234  	set:754 	way:0 	size:8 
+12973000: system.l2: cmd: tag:7 	data:0 0 0 0 8 0 0 0  	set:5089 	way:0 	size:8 
+12983500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 8 0 0 0  	set:993 	way:0 	size:8 
+13056000: system.l2: cmd: tag:2 	data:156 148 3 0 156 148 3 0  	set:4741 	way:0 	size:8 
+13066500: system.cpu.dcache: cmd: tag:5 	data:156 148 3 0 156 148 3 0  	set:645 	way:0 	size:8 
+13136000: system.l2: cmd: tag:7 	data:0 0 0 0 9 0 0 0  	set:5090 	way:0 	size:8 
+13146500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 9 0 0 0  	set:994 	way:0 	size:8 
+13222000: system.l2: cmd: tag:7 	data:220 4 1 0 11 0 0 0  	set:5091 	way:0 	size:8 
+13232500: system.cpu.dcache: cmd: tag:15 	data:220 4 1 0 11 0 0 0  	set:995 	way:0 	size:8 
+13305000: system.l2: cmd: tag:2 	data:156 148 3 0 40 151 3 0  	set:4742 	way:0 	size:8 
+13315500: system.cpu.dcache: cmd: tag:5 	data:156 148 3 0 40 151 3 0  	set:646 	way:0 	size:8 
+13383000: system.l2: cmd: tag:2 	data:0 48 144 229 8 0 128 226  	set:4837 	way:0 	size:8 
+13393500: system.cpu.icache: cmd: tag:20 	data:0 48 144 229 8 0 128 226  	set:741 	way:0 	size:8 
+13461000: system.l2: cmd: tag:7 	data:100 0 0 0 12 0 0 0  	set:5092 	way:0 	size:8 
+13471500: system.cpu.dcache: cmd: tag:15 	data:100 0 0 0 12 0 0 0  	set:996 	way:0 	size:8 
+13540000: system.l2: cmd: tag:2 	data:3 64 36 224 4 48 16 229  	set:4838 	way:0 	size:8 
+13550500: system.cpu.icache: cmd: tag:20 	data:3 64 36 224 4 48 16 229  	set:742 	way:0 	size:8 
+13620000: system.l2: cmd: tag:2 	data:1 192 140 227 0 0 83 227  	set:4839 	way:0 	size:8 
+13630500: system.cpu.icache: cmd: tag:20 	data:1 192 140 227 0 0 83 227  	set:743 	way:0 	size:8 
+13699000: system.l2: cmd: tag:2 	data:47 255 255 26 88 255 255 234  	set:4840 	way:0 	size:8 
+13709500: system.cpu.icache: cmd: tag:20 	data:47 255 255 26 88 255 255 234  	set:744 	way:0 	size:8 
+13780000: system.l2: cmd: tag:2 	data:8 151 3 0 232 150 3 0  	set:4743 	way:0 	size:8 
+13790500: system.cpu.dcache: cmd: tag:5 	data:8 151 3 0 232 150 3 0  	set:647 	way:0 	size:8 
+13858000: system.l2: cmd: tag:2 	data:0 48 144 229 8 0 128 226  	set:4833 	way:0 	size:8 
+13868500: system.cpu.icache: cmd: tag:20 	data:0 48 144 229 8 0 128 226  	set:737 	way:0 	size:8 
+13936000: system.l2: cmd: tag:7 	data:100 0 0 0 13 0 0 0  	set:5093 	way:0 	size:8 
+13946500: system.cpu.dcache: cmd: tag:15 	data:100 0 0 0 13 0 0 0  	set:997 	way:0 	size:8 
+14015000: system.l2: cmd: tag:2 	data:3 64 36 224 4 48 16 229  	set:4834 	way:0 	size:8 
+14025500: system.cpu.icache: cmd: tag:20 	data:3 64 36 224 4 48 16 229  	set:738 	way:0 	size:8 
+14095000: system.l2: cmd: tag:2 	data:2 192 140 227 0 0 83 227  	set:4835 	way:0 	size:8 
+14105500: system.cpu.icache: cmd: tag:20 	data:2 192 140 227 0 0 83 227  	set:739 	way:0 	size:8 
+14174000: system.l2: cmd: tag:2 	data:55 255 255 26 96 255 255 234  	set:4836 	way:0 	size:8 
+14184500: system.cpu.icache: cmd: tag:20 	data:55 255 255 26 96 255 255 234  	set:740 	way:0 	size:8 
+14256000: system.l2: cmd: tag:2 	data:0 48 144 229 8 0 128 226  	set:4829 	way:0 	size:8 
+14266500: system.cpu.icache: cmd: tag:20 	data:0 48 144 229 8 0 128 226  	set:733 	way:0 	size:8 
+14348000: system.l2: cmd: tag:7 	data:100 0 0 0 14 0 0 0  	set:5094 	way:0 	size:8 
+14358500: system.cpu.dcache: cmd: tag:15 	data:100 0 0 0 14 0 0 0  	set:998 	way:0 	size:8 
+14427000: system.l2: cmd: tag:2 	data:3 224 46 224 4 48 16 229  	set:4830 	way:0 	size:8 
+14437500: system.cpu.icache: cmd: tag:20 	data:3 224 46 224 4 48 16 229  	set:734 	way:0 	size:8 
+14507000: system.l2: cmd: tag:2 	data:4 192 140 227 0 0 83 227  	set:4831 	way:0 	size:8 
+14517500: system.cpu.icache: cmd: tag:20 	data:4 192 140 227 0 0 83 227  	set:735 	way:0 	size:8 
+14586000: system.l2: cmd: tag:2 	data:63 255 255 26 104 255 255 234  	set:4832 	way:0 	size:8 
+14596500: system.cpu.icache: cmd: tag:20 	data:63 255 255 26 104 255 255 234  	set:736 	way:0 	size:8 
+14682000: system.l2: cmd: tag:2 	data:0 48 144 229 8 0 128 226  	set:4825 	way:0 	size:8 
+14692500: system.cpu.icache: cmd: tag:20 	data:0 48 144 229 8 0 128 226  	set:729 	way:0 	size:8 
+14760000: system.l2: cmd: tag:7 	data:100 0 0 0 0 0 0 0  	set:5095 	way:0 	size:8 
+14770500: system.cpu.dcache: cmd: tag:15 	data:100 0 0 0 0 0 0 0  	set:999 	way:0 	size:8 
+14839000: system.l2: cmd: tag:2 	data:3 224 46 224 4 48 16 229  	set:4826 	way:0 	size:8 
+14849500: system.cpu.icache: cmd: tag:20 	data:3 224 46 224 4 48 16 229  	set:730 	way:0 	size:8 
+14919000: system.l2: cmd: tag:2 	data:8 192 140 227 0 0 83 227  	set:4827 	way:0 	size:8 
+14929500: system.cpu.icache: cmd: tag:20 	data:8 192 140 227 0 0 83 227  	set:731 	way:0 	size:8 
+14998000: system.l2: cmd: tag:2 	data:71 255 255 26 112 255 255 234  	set:4828 	way:0 	size:8 
+15008500: system.cpu.icache: cmd: tag:20 	data:71 255 255 26 112 255 255 234  	set:732 	way:0 	size:8 
+15078000: system.l2: cmd: tag:2 	data:4 48 157 21 0 48 138 21  	set:4758 	way:0 	size:8 
+15088500: system.cpu.icache: cmd: tag:20 	data:4 48 157 21 0 48 138 21  	set:662 	way:0 	size:8 
+15091500: system.cpu.dcache: cmd: tag: 14  data: 0  set: 3247  way: 0  size:  4 
+15159000: system.l2: cmd: tag:2 	data:12 48 157 229 0 0 83 227  	set:4759 	way:0 	size:8 
+15169500: system.cpu.icache: cmd: tag:20 	data:12 48 157 229 0 0 83 227  	set:663 	way:0 	size:8 
+15239000: system.l2: cmd: tag:2 	data:16 3 159 21 8 48 157 21  	set:4760 	way:0 	size:8 
+15249500: system.cpu.icache: cmd: tag:20 	data:16 3 159 21 8 48 157 21  	set:664 	way:0 	size:8 
+15320000: system.l2: cmd: tag:2 	data:0 48 128 21 20 48 157 229  	set:4761 	way:0 	size:8 
+15330500: system.cpu.icache: cmd: tag:20 	data:0 48 128 21 20 48 157 229  	set:665 	way:0 	size:8 
+15331500: system.cpu.dcache: cmd: tag: 15  data: 100  set: 179  way: 0  size:  4 
+15401000: system.l2: cmd: tag:2 	data:0 0 83 227 16 0 157 21  	set:4762 	way:0 	size:8 
+15411500: system.cpu.icache: cmd: tag:20 	data:0 0 83 227 16 0 157 21  	set:666 	way:0 	size:8 
+15481000: system.l2: cmd: tag:2 	data:4 51 159 21 0 0 131 21  	set:4763 	way:0 	size:8 
+15491500: system.cpu.icache: cmd: tag:20 	data:4 51 159 21 0 0 131 21  	set:667 	way:0 	size:8 
+15494500: system.cpu.dcache: cmd: tag: 15  data: 52  set: 177  way: 0  size:  4 
+15562000: system.l2: cmd: tag:2 	data:28 48 157 229 0 0 83 227  	set:4764 	way:0 	size:8 
+15572500: system.cpu.icache: cmd: tag:20 	data:28 48 157 229 0 0 83 227  	set:668 	way:0 	size:8 
+15922000: system.l2: cmd: tag:2 	data:24 0 157 21 236 50 159 21  	set:4765 	way:0 	size:8 
+15932500: system.cpu.icache: cmd: tag:20 	data:24 0 157 21 236 50 159 21  	set:669 	way:0 	size:8 
+16003000: system.l2: cmd: tag:2 	data:0 0 131 21 36 48 157 229  	set:4766 	way:0 	size:8 
+16013500: system.cpu.icache: cmd: tag:20 	data:0 0 131 21 36 48 157 229  	set:670 	way:0 	size:8 
+16014500: system.cpu.dcache: cmd: tag: 15  data: 7  set: 181  way: 0  size:  4 
+16084000: system.l2: cmd: tag:2 	data:0 0 83 227 216 50 159 21  	set:4767 	way:0 	size:8 
+16094500: system.cpu.icache: cmd: tag:20 	data:0 0 83 227 216 50 159 21  	set:671 	way:0 	size:8 
+16164000: system.l2: cmd: tag:2 	data:32 0 157 21 0 0 131 21  	set:4768 	way:0 	size:8 
+16174500: system.cpu.icache: cmd: tag:20 	data:32 0 157 21 0 0 131 21  	set:672 	way:0 	size:8 
+16177500: system.cpu.dcache: cmd: tag: 15  data: 87  set: 175  way: 0  size:  4 
+16245000: system.l2: cmd: tag:2 	data:40 48 157 229 0 0 83 227  	set:4769 	way:0 	size:8 
+16255500: system.cpu.icache: cmd: tag:20 	data:40 48 157 229 0 0 83 227  	set:673 	way:0 	size:8 
+16325000: system.l2: cmd: tag:2 	data:80 48 157 21 16 48 129 21  	set:4770 	way:0 	size:8 
+16335500: system.cpu.icache: cmd: tag:20 	data:80 48 157 21 16 48 129 21  	set:674 	way:0 	size:8 
+16338500: system.cpu.dcache: cmd: tag: 14  data: 215  set: 3596  way: 0  size:  4 
+16406000: system.l2: cmd: tag:2 	data:84 48 157 21 20 48 129 21  	set:4771 	way:0 	size:8 
+16416500: system.cpu.icache: cmd: tag:20 	data:84 48 157 21 20 48 129 21  	set:675 	way:0 	size:8 
+16419500: system.cpu.dcache: cmd: tag: 14  data: 0  set: 3596  way: 0  size:  4 
+16487000: system.l2: cmd: tag:2 	data:44 48 157 229 0 0 83 227  	set:4772 	way:0 	size:8 
+16497500: system.cpu.icache: cmd: tag:20 	data:44 48 157 229 0 0 83 227  	set:676 	way:0 	size:8 
+16567000: system.l2: cmd: tag:2 	data:88 48 157 21 0 48 129 21  	set:4773 	way:0 	size:8 
+16577500: system.cpu.icache: cmd: tag:20 	data:88 48 157 21 0 48 129 21  	set:677 	way:0 	size:8 
+16646000: system.l2: cmd: tag:2 	data:92 48 157 21 4 48 129 21  	set:4774 	way:0 	size:8 
+16656500: system.cpu.icache: cmd: tag:20 	data:92 48 157 21 4 48 129 21  	set:678 	way:0 	size:8 
+16725000: system.l2: cmd: tag:2 	data:52 48 157 229 0 0 83 227  	set:4775 	way:0 	size:8 
+16735500: system.cpu.icache: cmd: tag:20 	data:52 48 157 229 0 0 83 227  	set:679 	way:0 	size:8 
+16805000: system.l2: cmd: tag:2 	data:48 48 157 21 8 48 129 21  	set:4776 	way:0 	size:8 
+16815500: system.cpu.icache: cmd: tag:20 	data:48 48 157 21 8 48 129 21  	set:680 	way:0 	size:8 
+16884000: system.l2: cmd: tag:2 	data:60 48 157 229 0 0 83 227  	set:4777 	way:0 	size:8 
+16894500: system.cpu.icache: cmd: tag:20 	data:60 48 157 229 0 0 83 227  	set:681 	way:0 	size:8 
+16964000: system.l2: cmd: tag:2 	data:104 50 159 21 56 16 157 21  	set:4778 	way:0 	size:8 
+16974500: system.cpu.icache: cmd: tag:20 	data:104 50 159 21 56 16 157 21  	set:682 	way:0 	size:8 
+17043000: system.l2: cmd: tag:2 	data:0 16 131 21 68 48 157 229  	set:4779 	way:0 	size:8 
+17053500: system.cpu.icache: cmd: tag:20 	data:0 16 131 21 68 48 157 229  	set:683 	way:0 	size:8 
+17123000: system.l2: cmd: tag:2 	data:0 0 83 227 64 48 157 21  	set:4780 	way:0 	size:8 
+17133500: system.cpu.icache: cmd: tag:20 	data:0 0 83 227 64 48 157 21  	set:684 	way:0 	size:8 
+17217000: system.l2: cmd: tag:2 	data:0 48 135 21 0 0 88 227  	set:4781 	way:0 	size:8 
+17227500: system.cpu.icache: cmd: tag:20 	data:0 48 135 21 0 0 88 227  	set:685 	way:0 	size:8 
+17228500: system.cpu.dcache: cmd: tag: 14  data: 0  set: 2555  way: 0  size:  4 
+17297000: system.l2: cmd: tag:2 	data:72 48 157 21 0 48 134 21  	set:4782 	way:0 	size:8 
+17307500: system.cpu.icache: cmd: tag:20 	data:72 48 157 21 0 48 134 21  	set:686 	way:0 	size:8 
+17310500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 184  way: 0  size:  4 
+17378000: system.l2: cmd: tag:2 	data:0 0 82 227 76 48 157 21  	set:4783 	way:0 	size:8 
+17388500: system.cpu.icache: cmd: tag:20 	data:0 0 82 227 76 48 157 21  	set:687 	way:0 	size:8 
+17458000: system.l2: cmd: tag:2 	data:0 48 139 21 15 0 92 227  	set:4784 	way:0 	size:8 
+17468500: system.cpu.icache: cmd: tag:20 	data:0 48 139 21 15 0 92 227  	set:688 	way:0 	size:8 
+17469500: system.cpu.dcache: cmd: tag: 14  data: 71  set: 2546  way: 0  size:  4 
+17538000: system.l2: cmd: tag:2 	data:1 0 0 10 100 208 141 226  	set:4785 	way:0 	size:8 
+17548500: system.cpu.icache: cmd: tag:20 	data:1 0 0 10 100 208 141 226  	set:689 	way:0 	size:8 
+17617000: system.l2: cmd: tag:2 	data:240 143 189 232 14 48 148 225  	set:4786 	way:0 	size:8 
+17627500: system.cpu.icache: cmd: tag:20 	data:240 143 189 232 14 48 148 225  	set:690 	way:0 	size:8 
+17718000: system.l2: cmd: tag:0 	data:200 34 159 229 0 48 147 229  	set:6561 	way:0 	size:8 
+17728500: system.cpu.icache: cmd: tag:6 	data:200 34 159 229 0 48 147 229  	set:417 	way:0 	size:8 
+17796000: system.l2: cmd: tag:0 	data:0 0 1 0 88 1 1 0  	set:6651 	way:0 	size:8 
+17806500: system.cpu.dcache: cmd: tag:1 	data:0 0 1 0 88 1 1 0  	set:2555 	way:1 	size:8 
+17876000: system.l2: cmd: tag:0 	data:0 0 82 227 19 63 111 225  	set:6562 	way:0 	size:8 
+17886500: system.cpu.icache: cmd: tag:6 	data:0 0 82 227 19 63 111 225  	set:418 	way:0 	size:8 
+17955000: system.l2: cmd: tag:0 	data:1 16 160 227 2 16 160 1  	set:6563 	way:0 	size:8 
+17965500: system.cpu.icache: cmd: tag:6 	data:1 16 160 227 2 16 160 1  	set:419 	way:0 	size:8 
+18034000: system.l2: cmd: tag:0 	data:163 50 160 225 1 0 19 225  	set:6564 	way:0 	size:8 
+18044500: system.cpu.icache: cmd: tag:6 	data:163 50 160 225 1 0 19 225  	set:420 	way:0 	size:8 
+18113000: system.l2: cmd: tag:0 	data:20 0 0 26 224 116 0 235  	set:6565 	way:0 	size:8 
+18123500: system.cpu.icache: cmd: tag:6 	data:20 0 0 26 224 116 0 235  	set:421 	way:0 	size:8 
+18206000: system.l2: cmd: tag:2 	data:236 15 7 0 72 48 159 229  	set:5142 	way:0 	size:8 
+18216500: system.cpu.icache: cmd: tag:21 	data:236 15 7 0 72 48 159 229  	set:22 	way:0 	size:8 
+18284000: system.l2: cmd: tag:2 	data:246 255 255 234 196 133 9 0  	set:5152 	way:0 	size:8 
+18294500: system.cpu.dcache: cmd: tag:5 	data:246 255 255 234 196 133 9 0  	set:1056 	way:0 	size:8 
+18362000: system.l2: cmd: tag:2 	data:0 48 147 229 0 0 83 227  	set:5143 	way:0 	size:8 
+18372500: system.cpu.icache: cmd: tag:21 	data:0 48 147 229 0 0 83 227  	set:23 	way:0 	size:8 
+18442000: system.l2: cmd: tag:2 	data:30 255 47 17 16 64 45 233  	set:5144 	way:0 	size:8 
+18452500: system.cpu.icache: cmd: tag:21 	data:30 255 47 17 16 64 45 233  	set:24 	way:0 	size:8 
+18520000: system.l2: cmd: tag:0 	data:144 50 159 229 160 82 159 229  	set:6566 	way:0 	size:8 
+18530500: system.cpu.icache: cmd: tag:6 	data:144 50 159 229 160 82 159 229  	set:422 	way:0 	size:8 
+18601000: system.l2: cmd: tag:0 	data:0 0 147 229 245 111 0 235  	set:6567 	way:0 	size:8 
+18611500: system.cpu.icache: cmd: tag:6 	data:0 0 147 229 245 111 0 235  	set:423 	way:0 	size:8 
+18681000: system.l2: cmd: tag:2 	data:240 79 45 233 72 53 159 229  	set:4515 	way:0 	size:8 
+18691500: system.cpu.icache: cmd: tag:20 	data:240 79 45 233 72 53 159 229  	set:419 	way:1 	size:8 
+18692500: system.cpu.dcache: cmd: tag: 15  data: 180  set: 936  way: 0  size:  4 
+18693500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 937  way: 0  size:  4 
+18694500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 937  way: 0  size:  4 
+18695500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 938  way: 0  size:  4 
+18696500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 938  way: 0  size:  4 
+18697500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 939  way: 0  size:  4 
+18698500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 939  way: 0  size:  4 
+18699500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 940  way: 0  size:  4 
+18700500: system.cpu.dcache: cmd: tag: 15  data: 64  set: 940  way: 0  size:  4 
+18769000: system.l2: cmd: tag:2 	data:186 255 255 234 216 79 9 0  	set:4685 	way:0 	size:8 
+18779500: system.cpu.dcache: cmd: tag:5 	data:186 255 255 234 216 79 9 0  	set:589 	way:0 	size:8 
+18847000: system.l2: cmd: tag:2 	data:20 208 77 226 0 48 147 229  	set:4516 	way:0 	size:8 
+18857500: system.cpu.icache: cmd: tag:20 	data:20 208 77 226 0 48 147 229  	set:420 	way:1 	size:8 
+18927000: system.l2: cmd: tag:2 	data:0 176 160 225 0 0 83 227  	set:4517 	way:0 	size:8 
+18937500: system.cpu.icache: cmd: tag:20 	data:0 176 160 225 0 0 83 227  	set:421 	way:1 	size:8 
+19006000: system.l2: cmd: tag:2 	data:5 0 0 10 52 5 159 229  	set:4518 	way:0 	size:8 
+19016500: system.cpu.icache: cmd: tag:20 	data:5 0 0 10 52 5 159 229  	set:422 	way:1 	size:8 
+19084000: system.l2: cmd: tag:2 	data:6 1 0 154 0 0 91 227  	set:4521 	way:0 	size:8 
+19094500: system.cpu.icache: cmd: tag:20 	data:6 1 0 154 0 0 91 227  	set:425 	way:0 	size:8 
+19162000: system.l2: cmd: tag:2 	data:80 0 0 10 0 80 155 229  	set:4522 	way:0 	size:8 
+19172500: system.cpu.icache: cmd: tag:20 	data:80 0 0 10 0 80 155 229  	set:426 	way:0 	size:8 
+19242000: system.l2: cmd: tag:2 	data:0 0 85 227 77 0 0 10  	set:4523 	way:0 	size:8 
+19252500: system.cpu.icache: cmd: tag:20 	data:0 0 85 227 77 0 0 10  	set:427 	way:0 	size:8 
+19321000: system.l2: cmd: tag:2 	data:20 208 141 226 240 143 189 232  	set:4563 	way:0 	size:8 
+19331500: system.cpu.icache: cmd: tag:20 	data:20 208 141 226 240 143 189 232  	set:467 	way:0 	size:8 
+19407000: system.l2: cmd: tag:0 	data:152 114 159 229 152 98 159 229  	set:6568 	way:0 	size:8 
+19417500: system.cpu.icache: cmd: tag:6 	data:152 114 159 229 152 98 159 229  	set:424 	way:0 	size:8 
+19485000: system.l2: cmd: tag:0 	data:88 1 1 0 96 112 9 0  	set:6652 	way:0 	size:8 
+19495500: system.cpu.dcache: cmd: tag:1 	data:88 1 1 0 96 112 9 0  	set:2556 	way:0 	size:8 
+19565000: system.l2: cmd: tag:0 	data:4 0 0 234 0 48 152 229  	set:6569 	way:0 	size:8 
+19575500: system.cpu.icache: cmd: tag:6 	data:4 0 0 234 0 48 152 229  	set:425 	way:1 	size:8 
+19643000: system.l2: cmd: tag:0 	data:7 0 85 225 22 0 0 42  	set:6572 	way:0 	size:8 
+19653500: system.cpu.icache: cmd: tag:6 	data:7 0 85 225 22 0 0 42  	set:428 	way:0 	size:8 
+19722000: system.l2: cmd: tag:0 	data:217 255 255 234 210 0 0 235  	set:6584 	way:0 	size:8 
+19732500: system.cpu.icache: cmd: tag:6 	data:217 255 255 234 210 0 0 235  	set:440 	way:0 	size:8 
+19800000: system.l2: cmd: tag:0 	data:1 128 0 0 240 79 45 233  	set:6690 	way:0 	size:8 
+19810500: system.cpu.icache: cmd: tag:6 	data:1 128 0 0 240 79 45 233  	set:546 	way:0 	size:8 
+19811500: system.cpu.dcache: cmd: tag: 15  data: 180  set: 936  way: 0  size:  4 
+19812500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 937  way: 0  size:  4 
+19813500: system.cpu.dcache: cmd: tag: 15  data: 96  set: 937  way: 0  size:  4 
+19814500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 938  way: 0  size:  4 
+19815500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 938  way: 0  size:  4 
+19816500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 939  way: 0  size:  4 
+19817500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 939  way: 0  size:  4 
+19818500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 940  way: 0  size:  4 
+19819500: system.cpu.dcache: cmd: tag: 15  data: 200  set: 940  way: 0  size:  4 
+19887000: system.l2: cmd: tag:0 	data:64 50 159 229 64 34 159 229  	set:6691 	way:0 	size:8 
+19897500: system.cpu.icache: cmd: tag:6 	data:64 50 159 229 64 34 159 229  	set:547 	way:0 	size:8 
+19965000: system.l2: cmd: tag:0 	data:140 133 9 0 56 104 9 0  	set:6764 	way:0 	size:8 
+19975500: system.cpu.dcache: cmd: tag:1 	data:140 133 9 0 56 104 9 0  	set:2668 	way:0 	size:8 
+20053000: system.l2: cmd: tag:0 	data:0 48 147 229 28 208 77 226  	set:6692 	way:0 	size:8 
+20063500: system.cpu.icache: cmd: tag:6 	data:0 48 147 229 28 208 77 226  	set:548 	way:0 	size:8 
+20133000: system.l2: cmd: tag:0 	data:0 0 83 227 0 80 146 229  	set:6693 	way:0 	size:8 
+20143500: system.cpu.icache: cmd: tag:6 	data:0 0 83 227 0 80 146 229  	set:549 	way:0 	size:8 
+20226000: system.l2: cmd: tag:7 	data:128 101 9 0 1 0 0 0  	set:3335 	way:0 	size:8 
+20236500: system.cpu.dcache: cmd: tag:14 	data:128 101 9 0 1 0 0 0  	set:3335 	way:0 	size:8 
+20304000: system.l2: cmd: tag:0 	data:122 0 0 10 44 34 159 229  	set:6694 	way:0 	size:8 
+20314500: system.cpu.icache: cmd: tag:6 	data:122 0 0 10 44 34 159 229  	set:550 	way:0 	size:8 
+20383000: system.l2: cmd: tag:0 	data:172 133 9 0 148 92 9 0  	set:6765 	way:0 	size:8 
+20393500: system.cpu.dcache: cmd: tag:1 	data:172 133 9 0 148 92 9 0  	set:2669 	way:0 	size:8 
+20461000: system.l2: cmd: tag:0 	data:0 16 146 229 129 18 131 224  	set:6695 	way:0 	size:8 
+20471500: system.cpu.icache: cmd: tag:6 	data:0 16 146 229 129 18 131 224  	set:551 	way:0 	size:8 
+20541000: system.l2: cmd: tag:0 	data:1 0 83 225 3 0 0 58  	set:6696 	way:0 	size:8 
+20551500: system.cpu.icache: cmd: tag:6 	data:1 0 83 225 3 0 0 58  	set:552 	way:0 	size:8 
+20620000: system.l2: cmd: tag:0 	data:0 32 147 229 7 0 82 227  	set:6699 	way:0 	size:8 
+20630500: system.cpu.icache: cmd: tag:6 	data:0 32 147 229 7 0 82 227  	set:555 	way:0 	size:8 
+20712000: system.l2: cmd: tag:0 	data:38 0 37 0 1 0 0 112  	set:6 	way:0 	size:8 
+20722500: system.cpu.dcache: cmd: tag:0 	data:38 0 37 0 1 0 0 112  	set:6 	way:0 	size:8 
+20791000: system.l2: cmd: tag:0 	data:249 255 255 26 28 64 147 229  	set:6700 	way:0 	size:8 
+20801500: system.cpu.icache: cmd: tag:6 	data:249 255 255 26 28 64 147 229  	set:556 	way:0 	size:8 
+20869000: system.l2: cmd: tag:0 	data:28 0 0 234 32 48 131 226  	set:6697 	way:0 	size:8 
+20879500: system.cpu.icache: cmd: tag:6 	data:28 0 0 234 32 48 131 226  	set:553 	way:0 	size:8 
+20947000: system.l2: cmd: tag:0 	data:1 0 83 225 25 0 0 42  	set:6698 	way:0 	size:8 
+20957500: system.cpu.icache: cmd: tag:6 	data:1 0 83 225 25 0 0 42  	set:554 	way:0 	size:8 
+21027000: system.l2: cmd: tag:0 	data:4 0 0 0 1 0 0 0  	set:10 	way:0 	size:8 
+21037500: system.cpu.dcache: cmd: tag:0 	data:4 0 0 0 1 0 0 0  	set:10 	way:0 	size:8 
+21111000: system.l2: cmd: tag:0 	data:0 0 1 0 1 0 0 0  	set:14 	way:0 	size:8 
+21121500: system.cpu.dcache: cmd: tag:0 	data:0 0 1 0 1 0 0 0  	set:14 	way:0 	size:8 
+21195000: system.l2: cmd: tag:0 	data:0 0 1 0 4 0 0 0  	set:18 	way:0 	size:8 
+21205500: system.cpu.dcache: cmd: tag:0 	data:0 0 1 0 4 0 0 0  	set:18 	way:0 	size:8 
+21279000: system.l2: cmd: tag:0 	data:4 0 0 0 7 0 0 0  	set:22 	way:0 	size:8 
+21289500: system.cpu.dcache: cmd: tag:0 	data:4 0 0 0 7 0 0 0  	set:22 	way:0 	size:8 
+21360000: system.l2: cmd: tag:0 	data:4 0 0 0 81 229 116 100  	set:26 	way:0 	size:8 
+21370500: system.cpu.dcache: cmd: tag:0 	data:4 0 0 0 81 229 116 100  	set:26 	way:0 	size:8 
+21438000: system.l2: cmd: tag:0 	data:8 32 147 229 0 16 149 229  	set:6701 	way:0 	size:8 
+21448500: system.cpu.icache: cmd: tag:6 	data:8 32 147 229 0 16 149 229  	set:557 	way:0 	size:8 
+21516000: system.l2: cmd: tag:0 	data:124 75 7 0 124 75 9 0  	set:23 	way:0 	size:8 
+21526500: system.cpu.dcache: cmd: tag:0 	data:124 75 7 0 124 75 9 0  	set:23 	way:0 	size:8 
+21595000: system.l2: cmd: tag:7 	data:0 0 0 0 96 232 6 0  	set:3248 	way:0 	size:8 
+21605500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 96 232 6 0  	set:3248 	way:0 	size:8 
+21673000: system.l2: cmd: tag:0 	data:20 144 147 229 16 48 147 229  	set:6702 	way:0 	size:8 
+21683500: system.cpu.icache: cmd: tag:6 	data:20 144 147 229 16 48 147 229  	set:558 	way:0 	size:8 
+21751000: system.l2: cmd: tag:0 	data:48 0 0 0 4 0 0 0  	set:25 	way:0 	size:8 
+21761500: system.cpu.dcache: cmd: tag:0 	data:48 0 0 0 4 0 0 0  	set:25 	way:0 	size:8 
+21830000: system.l2: cmd: tag:0 	data:124 75 9 0 16 0 0 0  	set:24 	way:0 	size:8 
+21840500: system.cpu.dcache: cmd: tag:0 	data:124 75 9 0 16 0 0 0  	set:24 	way:0 	size:8 
+21908000: system.l2: cmd: tag:0 	data:2 32 129 224 16 0 84 227  	set:6703 	way:0 	size:8 
+21918500: system.cpu.icache: cmd: tag:6 	data:2 32 129 224 16 0 84 227  	set:559 	way:0 	size:8 
+21987000: system.l2: cmd: tag:0 	data:8 32 141 229 4 48 141 229  	set:6704 	way:0 	size:8 
+21997500: system.cpu.icache: cmd: tag:6 	data:8 32 141 229 4 48 141 229  	set:560 	way:0 	size:8 
+21998500: system.cpu.dcache: cmd: tag: 15  data: 124  set: 934  way: 0  size:  4 
+22000500: system.cpu.dcache: cmd: tag: 15  data: 16  set: 933  way: 0  size:  4 
+22068000: system.l2: cmd: tag:0 	data:108 0 0 138 0 0 84 227  	set:6705 	way:0 	size:8 
+22078500: system.cpu.icache: cmd: tag:6 	data:108 0 0 138 0 0 84 227  	set:561 	way:0 	size:8 
+22147000: system.l2: cmd: tag:0 	data:110 0 0 10 16 48 160 227  	set:6706 	way:0 	size:8 
+22157500: system.cpu.icache: cmd: tag:6 	data:110 0 0 10 16 48 160 227  	set:562 	way:0 	size:8 
+22234000: system.l2: cmd: tag:0 	data:15 176 160 227 15 160 224 227  	set:6707 	way:0 	size:8 
+22244500: system.cpu.icache: cmd: tag:6 	data:15 176 160 227 15 160 224 227  	set:563 	way:0 	size:8 
+22313000: system.l2: cmd: tag:0 	data:12 48 141 229 4 16 160 225  	set:6708 	way:0 	size:8 
+22323500: system.cpu.icache: cmd: tag:6 	data:12 48 141 229 4 16 160 225  	set:564 	way:0 	size:8 
+22324500: system.cpu.dcache: cmd: tag: 15  data: 16  set: 934  way: 0  size:  4 
+22393000: system.l2: cmd: tag:0 	data:7 0 132 226 138 55 1 235  	set:6709 	way:0 	size:8 
+22403500: system.cpu.icache: cmd: tag:6 	data:7 0 132 226 138 55 1 235  	set:565 	way:0 	size:8 
+22486000: system.l2: cmd: tag:5 	data:4 240 157 228 1 32 81 226  	set:5627 	way:0 	size:8 
+22496500: system.cpu.icache: cmd: tag:45 	data:4 240 157 228 1 32 81 226  	set:507 	way:0 	size:8 
+22564000: system.l2: cmd: tag:5 	data:30 255 47 1 116 0 0 58  	set:5628 	way:0 	size:8 
+22574500: system.cpu.icache: cmd: tag:45 	data:30 255 47 1 116 0 0 58  	set:508 	way:0 	size:8 
+22643000: system.l2: cmd: tag:5 	data:1 0 80 225 107 0 0 154  	set:5629 	way:0 	size:8 
+22653500: system.cpu.icache: cmd: tag:45 	data:1 0 80 225 107 0 0 154  	set:509 	way:0 	size:8 
+22722000: system.l2: cmd: tag:5 	data:2 0 17 225 108 0 0 10  	set:5630 	way:0 	size:8 
+22732500: system.cpu.icache: cmd: tag:45 	data:2 0 17 225 108 0 0 10  	set:510 	way:0 	size:8 
+22801000: system.l2: cmd: tag:5 	data:30 255 47 225 17 47 111 225  	set:5685 	way:0 	size:8 
+22811500: system.cpu.icache: cmd: tag:45 	data:30 255 47 225 17 47 111 225  	set:565 	way:1 	size:8 
+22879000: system.l2: cmd: tag:5 	data:31 32 98 226 48 2 160 225  	set:5686 	way:0 	size:8 
+22889500: system.cpu.icache: cmd: tag:45 	data:31 32 98 226 48 2 160 225  	set:566 	way:0 	size:8 
+22958000: system.l2: cmd: tag:5 	data:30 255 47 225 0 0 80 227  	set:5687 	way:0 	size:8 
+22968500: system.cpu.icache: cmd: tag:45 	data:30 255 47 225 0 0 80 227  	set:567 	way:0 	size:8 
+23036000: system.l2: cmd: tag:0 	data:148 0 8 224 16 64 141 229  	set:6710 	way:0 	size:8 
+23046500: system.cpu.icache: cmd: tag:6 	data:148 0 8 224 16 64 141 229  	set:566 	way:1 	size:8 
+23048500: system.cpu.dcache: cmd: tag: 15  data: 4  set: 935  way: 0  size:  4 
+23116000: system.l2: cmd: tag:0 	data:8 32 160 225 11 0 0 234  	set:6711 	way:0 	size:8 
+23126500: system.cpu.icache: cmd: tag:6 	data:8 32 160 225 11 0 0 234  	set:567 	way:1 	size:8 
+23195000: system.l2: cmd: tag:0 	data:116 49 159 229 20 32 141 229  	set:6718 	way:0 	size:8 
+23205500: system.cpu.icache: cmd: tag:6 	data:116 49 159 229 20 32 141 229  	set:574 	way:0 	size:8 
+23208500: system.cpu.dcache: cmd: tag: 15  data: 8  set: 935  way: 0  size:  4 
+23276000: system.l2: cmd: tag:0 	data:0 0 147 229 12 48 157 229  	set:6719 	way:0 	size:8 
+23286500: system.cpu.icache: cmd: tag:6 	data:0 0 147 229 12 48 157 229  	set:575 	way:0 	size:8 
+23368000: system.l2: cmd: tag:7 	data:126 2 0 0 0 8 0 0  	set:2962 	way:0 	size:8 
+23378500: system.cpu.dcache: cmd: tag:14 	data:126 2 0 0 0 8 0 0  	set:2962 	way:0 	size:8 
+23709000: system.l2: cmd: tag:0 	data:19 13 128 226 8 0 128 224  	set:6720 	way:0 	size:8 
+23719500: system.cpu.icache: cmd: tag:6 	data:19 13 128 226 8 0 128 224  	set:576 	way:0 	size:8 
+23788000: system.l2: cmd: tag:0 	data:9 0 128 224 3 0 128 224  	set:6721 	way:0 	size:8 
+23798500: system.cpu.icache: cmd: tag:6 	data:9 0 128 224 3 0 128 224  	set:577 	way:0 	size:8 
+23867000: system.l2: cmd: tag:0 	data:160 103 0 235 62 192 160 227  	set:6722 	way:0 	size:8 
+23877500: system.cpu.icache: cmd: tag:6 	data:160 103 0 235 62 192 160 227  	set:578 	way:0 	size:8 
+23959000: system.l2: cmd: tag:2 	data:112 64 45 233 160 96 159 229  	set:3603 	way:0 	size:8 
+23969500: system.cpu.icache: cmd: tag:19 	data:112 64 45 233 160 96 159 229  	set:531 	way:0 	size:8 
+23970500: system.cpu.dcache: cmd: tag: 15  data: 4  set: 931  way: 0  size:  4 
+23971500: system.cpu.dcache: cmd: tag: 15  data: 128  set: 931  way: 0  size:  4 
+23972500: system.cpu.dcache: cmd: tag: 15  data: 96  set: 932  way: 0  size:  4 
+23973500: system.cpu.dcache: cmd: tag: 15  data: 20  set: 932  way: 0  size:  4 
+24042000: system.l2: cmd: tag:2 	data:233 255 255 234 96 113 9 0  	set:3624 	way:0 	size:8 
+24052500: system.cpu.dcache: cmd: tag:4 	data:233 255 255 234 96 113 9 0  	set:3624 	way:0 	size:8 
+24120000: system.l2: cmd: tag:2 	data:0 80 160 225 0 64 150 229  	set:3604 	way:0 	size:8 
+24130500: system.cpu.icache: cmd: tag:19 	data:0 80 160 225 0 64 150 229  	set:532 	way:0 	size:8 
+24213000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3628 	way:0 	size:8 
+24223500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3628 	way:0 	size:8 
+24291000: system.l2: cmd: tag:2 	data:0 0 84 227 3 0 0 10  	set:3605 	way:0 	size:8 
+24301500: system.cpu.icache: cmd: tag:19 	data:0 0 84 227 3 0 0 10  	set:533 	way:0 	size:8 
+24370000: system.l2: cmd: tag:2 	data:0 0 160 227 156 136 0 235  	set:3608 	way:0 	size:8 
+24380500: system.cpu.icache: cmd: tag:19 	data:0 0 160 227 156 136 0 235  	set:536 	way:0 	size:8 
+24463000: system.l2: cmd: tag:4 	data:40 189 3 0 128 64 45 233  	set:4711 	way:1 	size:8 
+24473500: system.cpu.icache: cmd: tag:36 	data:40 189 3 0 128 64 45 233  	set:615 	way:1 	size:8 
+24474500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 930  way: 0  size:  4 
+24475500: system.cpu.dcache: cmd: tag: 15  data: 200  set: 930  way: 0  size:  4 
+24543000: system.l2: cmd: tag:4 	data:0 32 160 225 45 112 160 227  	set:4712 	way:1 	size:8 
+24553500: system.cpu.icache: cmd: tag:36 	data:0 32 160 225 45 112 160 227  	set:616 	way:1 	size:8 
+24622000: system.l2: cmd: tag:4 	data:0 0 0 239 1 10 112 227  	set:4713 	way:1 	size:8 
+24632500: system.cpu.icache: cmd: tag:36 	data:0 0 0 239 1 10 112 227  	set:617 	way:1 	size:8 
+24701000: system.l2: cmd: tag:4 	data:0 48 160 225 6 0 0 138  	set:4714 	way:1 	size:8 
+24711500: system.cpu.icache: cmd: tag:36 	data:0 48 160 225 6 0 0 138  	set:618 	way:1 	size:8 
+24780000: system.l2: cmd: tag:4 	data:92 16 159 229 0 0 82 225  	set:4715 	way:1 	size:8 
+24790500: system.cpu.icache: cmd: tag:36 	data:92 16 159 229 0 0 82 225  	set:619 	way:1 	size:8 
+24858000: system.l2: cmd: tag:4 	data:235 255 255 234 96 113 9 0  	set:4727 	way:1 	size:8 
+24868500: system.cpu.dcache: cmd: tag:9 	data:235 255 255 234 96 113 9 0  	set:631 	way:0 	size:8 
+24937000: system.l2: cmd: tag:4 	data:0 0 129 229 0 48 160 147  	set:4716 	way:1 	size:8 
+24947500: system.cpu.icache: cmd: tag:36 	data:0 0 129 229 0 48 160 147  	set:620 	way:1 	size:8 
+24948500: system.cpu.dcache: cmd: tag: 14  data: 0  set: 3628  way: 0  size:  4 
+25017000: system.l2: cmd: tag:4 	data:12 0 0 138 3 0 160 225  	set:4717 	way:1 	size:8 
+25027500: system.cpu.icache: cmd: tag:36 	data:12 0 0 138 3 0 160 225  	set:621 	way:1 	size:8 
+25096000: system.l2: cmd: tag:4 	data:128 128 189 232 81 16 255 235  	set:4718 	way:1 	size:8 
+25106500: system.cpu.icache: cmd: tag:36 	data:128 128 189 232 81 16 255 235  	set:622 	way:1 	size:8 
+25175000: system.l2: cmd: tag:2 	data:0 0 80 227 0 64 150 165  	set:3609 	way:0 	size:8 
+25185500: system.cpu.icache: cmd: tag:19 	data:0 0 80 227 0 64 150 165  	set:537 	way:0 	size:8 
+25255000: system.l2: cmd: tag:2 	data:19 0 0 186 0 0 85 227  	set:3610 	way:0 	size:8 
+25265500: system.cpu.icache: cmd: tag:19 	data:19 0 0 186 0 0 85 227  	set:538 	way:0 	size:8 
+25334000: system.l2: cmd: tag:2 	data:11 0 0 10 19 0 0 218  	set:3611 	way:0 	size:8 
+25344500: system.cpu.icache: cmd: tag:19 	data:11 0 0 10 19 0 0 218  	set:539 	way:0 	size:8 
+25413000: system.l2: cmd: tag:2 	data:5 0 116 225 1 48 160 35  	set:3612 	way:0 	size:8 
+25423500: system.cpu.icache: cmd: tag:19 	data:5 0 116 225 1 48 160 35  	set:540 	way:0 	size:8 
+25492000: system.l2: cmd: tag:2 	data:0 48 160 51 0 0 83 227  	set:3613 	way:0 	size:8 
+25502500: system.cpu.icache: cmd: tag:19 	data:0 48 160 51 0 0 83 227  	set:541 	way:0 	size:8 
+25571000: system.l2: cmd: tag:2 	data:7 0 0 10 241 152 255 235  	set:3614 	way:0 	size:8 
+25581500: system.cpu.icache: cmd: tag:19 	data:7 0 0 10 241 152 255 235  	set:542 	way:0 	size:8 
+25649000: system.l2: cmd: tag:2 	data:112 128 189 232 5 0 132 224  	set:3618 	way:0 	size:8 
+25659500: system.cpu.icache: cmd: tag:19 	data:112 128 189 232 5 0 132 224  	set:546 	way:1 	size:8 
+25727000: system.l2: cmd: tag:2 	data:135 136 0 235 0 0 80 227  	set:3619 	way:0 	size:8 
+25737500: system.cpu.icache: cmd: tag:19 	data:135 136 0 235 0 0 80 227  	set:547 	way:1 	size:8 
+25739500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 930  way: 0  size:  4 
+25740500: system.cpu.dcache: cmd: tag: 15  data: 28  set: 930  way: 0  size:  4 
+25751500: system.cpu.dcache: cmd: tag: 14  data: 8  set: 3628  way: 0  size:  4 
+25825000: system.l2: cmd: tag:2 	data:249 255 255 170 0 64 224 227  	set:3620 	way:0 	size:8 
+25835500: system.cpu.icache: cmd: tag:19 	data:249 255 255 170 0 64 224 227  	set:548 	way:1 	size:8 
+25903000: system.l2: cmd: tag:2 	data:3 32 128 231 4 0 160 225  	set:3617 	way:0 	size:8 
+25913500: system.cpu.icache: cmd: tag:19 	data:3 32 128 231 4 0 160 225  	set:545 	way:0 	size:8 
+25985000: system.l2: cmd: tag:0 	data:0 16 160 227 19 13 128 226  	set:6723 	way:0 	size:8 
+25995500: system.cpu.icache: cmd: tag:6 	data:0 16 160 227 19 13 128 226  	set:579 	way:0 	size:8 
+26064000: system.l2: cmd: tag:0 	data:11 176 128 224 68 97 159 229  	set:6724 	way:0 	size:8 
+26074500: system.cpu.icache: cmd: tag:6 	data:11 176 128 224 68 97 159 229  	set:580 	way:0 	size:8 
+26143000: system.l2: cmd: tag:0 	data:32 131 9 0 5 0 15 0  	set:6766 	way:0 	size:8 
+26153500: system.cpu.dcache: cmd: tag:1 	data:32 131 9 0 5 0 15 0  	set:2670 	way:0 	size:8 
+26221000: system.l2: cmd: tag:0 	data:11 160 10 224 20 32 157 229  	set:6725 	way:0 	size:8 
+26231500: system.cpu.icache: cmd: tag:6 	data:11 160 10 224 20 32 157 229  	set:581 	way:0 	size:8 
+26301000: system.l2: cmd: tag:0 	data:8 224 138 224 20 16 134 229  	set:6726 	way:0 	size:8 
+26311500: system.cpu.icache: cmd: tag:6 	data:8 224 138 224 20 16 134 229  	set:582 	way:0 	size:8 
+26394000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4198 	way:0 	size:8 
+26404500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:102 	way:0 	size:8 
+26404500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 102  way: 0  size:  4 
+26472000: system.l2: cmd: tag:0 	data:16 224 134 229 0 192 134 229  	set:6727 	way:0 	size:8 
+26482500: system.cpu.icache: cmd: tag:6 	data:16 224 134 229 0 192 134 229  	set:583 	way:0 	size:8 
+26483500: system.cpu.dcache: cmd: tag: 15  data: 200  set: 102  way: 0  size:  4 
+26552000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4196 	way:0 	size:8 
+26562500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:100 	way:0 	size:8 
+26562500: system.cpu.dcache: cmd: tag: 15  data: 62  set: 100  way: 0  size:  4 
+26630000: system.l2: cmd: tag:0 	data:60 34 133 229 14 0 160 225  	set:6728 	way:0 	size:8 
+26640500: system.cpu.icache: cmd: tag:6 	data:60 34 133 229 14 0 160 225  	set:584 	way:0 	size:8 
+26708000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3319 	way:0 	size:8 
+26718500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3319 	way:0 	size:8 
+26718500: system.cpu.dcache: cmd: tag: 14  data: 8  set: 3319  way: 0  size:  4 
+26787000: system.l2: cmd: tag:0 	data:4 32 157 229 8 16 157 229  	set:6729 	way:0 	size:8 
+26797500: system.cpu.icache: cmd: tag:6 	data:4 32 157 229 8 16 157 229  	set:585 	way:0 	size:8 
+26868000: system.l2: cmd: tag:0 	data:8 96 134 226 185 94 0 235  	set:6730 	way:0 	size:8 
+26878500: system.cpu.icache: cmd: tag:6 	data:8 96 134 226 185 94 0 235  	set:586 	way:0 	size:8 
+26961000: system.l2: cmd: tag:2 	data:17 64 45 233 4 32 82 226  	set:2472 	way:0 	size:8 
+26971500: system.cpu.icache: cmd: tag:18 	data:17 64 45 233 4 32 82 226  	set:424 	way:1 	size:8 
+26972500: system.cpu.dcache: cmd: tag: 15  data: 200  set: 931  way: 0  size:  4 
+26973500: system.cpu.dcache: cmd: tag: 15  data: 4  set: 932  way: 0  size:  4 
+26974500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 932  way: 0  size:  4 
+27043000: system.l2: cmd: tag:2 	data:33 0 0 186 3 192 16 226  	set:2473 	way:0 	size:8 
+27053500: system.cpu.icache: cmd: tag:18 	data:33 0 0 186 3 192 16 226  	set:425 	way:0 	size:8 
+27054500: system.l2: cmd: tag: 2  data: 6  set: 4521  way: 0  size:  8 
+27122000: system.l2: cmd: tag:2 	data:39 0 0 26 3 192 17 226  	set:2474 	way:0 	size:8 
+27132500: system.cpu.icache: cmd: tag:18 	data:39 0 0 26 3 192 17 226  	set:426 	way:1 	size:8 
+27201000: system.l2: cmd: tag:2 	data:49 0 0 26 28 32 82 226  	set:2475 	way:0 	size:8 
+27211500: system.cpu.icache: cmd: tag:18 	data:49 0 0 26 28 32 82 226  	set:427 	way:1 	size:8 
+27280000: system.l2: cmd: tag:2 	data:224 1 45 233 3 0 0 186  	set:2476 	way:0 	size:8 
+27290500: system.cpu.icache: cmd: tag:18 	data:224 1 45 233 3 0 0 186  	set:428 	way:1 	size:8 
+27291500: system.cpu.dcache: cmd: tag: 15  data: 128  set: 929  way: 0  size:  4 
+27292500: system.cpu.dcache: cmd: tag: 15  data: 40  set: 930  way: 0  size:  4 
+27293500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 930  way: 0  size:  4 
+27294500: system.cpu.dcache: cmd: tag: 15  data: 8  set: 931  way: 0  size:  4 
+27363000: system.l2: cmd: tag:2 	data:28 192 18 226 32 192 108 226  	set:2479 	way:0 	size:8 
+27373500: system.cpu.icache: cmd: tag:18 	data:28 192 18 226 32 192 108 226  	set:431 	way:0 	size:8 
+27442000: system.l2: cmd: tag:2 	data:12 240 143 16 17 0 0 234  	set:2480 	way:0 	size:8 
+27452500: system.cpu.icache: cmd: tag:18 	data:12 240 143 16 17 0 0 234  	set:432 	way:0 	size:8 
+27520000: system.l2: cmd: tag:2 	data:4 96 145 228 4 112 145 228  	set:2483 	way:0 	size:8 
+27530500: system.cpu.icache: cmd: tag:18 	data:4 96 145 228 4 112 145 228  	set:435 	way:0 	size:8 
+27612000: system.l2: cmd: tag:7 	data:0 0 0 0 32 106 9 0  	set:2415 	way:0 	size:8 
+27622500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 32 106 9 0  	set:2415 	way:0 	size:8 
+27691000: system.l2: cmd: tag:7 	data:32 106 9 0 48 106 9 0  	set:2416 	way:0 	size:8 
+27701500: system.cpu.dcache: cmd: tag:14 	data:32 106 9 0 48 106 9 0  	set:2416 	way:0 	size:8 
+27769000: system.l2: cmd: tag:2 	data:4 128 145 228 4 224 145 228  	set:2484 	way:0 	size:8 
+27779500: system.cpu.icache: cmd: tag:18 	data:4 128 145 228 4 224 145 228  	set:436 	way:0 	size:8 
+27849000: system.l2: cmd: tag:7 	data:36 106 9 0 228 5 1 0  	set:2417 	way:0 	size:8 
+27859500: system.cpu.dcache: cmd: tag:14 	data:36 106 9 0 228 5 1 0  	set:2417 	way:0 	size:8 
+27927000: system.l2: cmd: tag:2 	data:12 240 143 224 0 0 160 225  	set:2485 	way:0 	size:8 
+27937500: system.cpu.icache: cmd: tag:18 	data:12 240 143 224 0 0 160 225  	set:437 	way:0 	size:8 
+28005000: system.l2: cmd: tag:2 	data:4 96 128 228 4 112 128 228  	set:2488 	way:0 	size:8 
+28015500: system.cpu.icache: cmd: tag:18 	data:4 96 128 228 4 112 128 228  	set:440 	way:1 	size:8 
+28097000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5785 	way:0 	size:8 
+28107500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:1689 	way:0 	size:8 
+28107500: system.cpu.dcache: cmd: tag: 15  data: 32  set: 1689  way: 0  size:  4 
+28109500: system.cpu.dcache: cmd: tag: 15  data: 32  set: 1689  way: 0  size:  4 
+28177000: system.l2: cmd: tag:2 	data:4 128 128 228 4 224 128 228  	set:2489 	way:0 	size:8 
+28187500: system.cpu.icache: cmd: tag:18 	data:4 128 128 228 4 224 128 228  	set:441 	way:0 	size:8 
+28255000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5786 	way:0 	size:8 
+28265500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:1690 	way:0 	size:8 
+28265500: system.cpu.dcache: cmd: tag: 15  data: 48  set: 1690  way: 0  size:  4 
+28267500: system.cpu.dcache: cmd: tag: 15  data: 36  set: 1690  way: 0  size:  4 
+28335000: system.l2: cmd: tag:2 	data:224 1 189 232 130 47 176 225  	set:2490 	way:0 	size:8 
+28345500: system.cpu.icache: cmd: tag:18 	data:224 1 189 232 130 47 176 225  	set:442 	way:0 	size:8 
+28417000: system.l2: cmd: tag:2 	data:1 48 209 20 1 64 209 36  	set:2491 	way:0 	size:8 
+28427500: system.cpu.icache: cmd: tag:18 	data:1 48 209 20 1 64 209 36  	set:443 	way:0 	size:8 
+28496000: system.l2: cmd: tag:2 	data:0 192 209 37 1 48 192 20  	set:2492 	way:0 	size:8 
+28506500: system.cpu.icache: cmd: tag:18 	data:0 192 209 37 1 48 192 20  	set:444 	way:0 	size:8 
+28575000: system.l2: cmd: tag:2 	data:1 64 192 36 0 192 192 37  	set:2493 	way:0 	size:8 
+28585500: system.cpu.icache: cmd: tag:18 	data:1 64 192 36 0 192 192 37  	set:445 	way:0 	size:8 
+28662000: system.l2: cmd: tag:2 	data:17 128 189 232 4 192 108 226  	set:2494 	way:0 	size:8 
+28672500: system.cpu.icache: cmd: tag:18 	data:17 128 189 232 4 192 108 226  	set:446 	way:0 	size:8 
+28743000: system.l2: cmd: tag:0 	data:20 113 159 229 0 96 138 229  	set:6731 	way:0 	size:8 
+28753500: system.cpu.icache: cmd: tag:6 	data:20 113 159 229 0 96 138 229  	set:587 	way:0 	size:8 
+28823000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5784 	way:0 	size:8 
+28833500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:1688 	way:0 	size:8 
+28833500: system.cpu.dcache: cmd: tag: 15  data: 40  set: 1688  way: 0  size:  4 
+28901000: system.l2: cmd: tag:0 	data:10 0 160 225 0 0 0 239  	set:6732 	way:0 	size:8 
+28911500: system.cpu.icache: cmd: tag:6 	data:10 0 160 225 0 0 0 239  	set:588 	way:0 	size:8 
+28980000: system.l2: cmd: tag:0 	data:1 10 112 227 1 0 0 154  	set:6733 	way:0 	size:8 
+28990500: system.cpu.icache: cmd: tag:6 	data:1 10 112 227 1 0 0 154  	set:589 	way:0 	size:8 
+29059000: system.l2: cmd: tag:0 	data:1 16 160 227 64 0 160 227  	set:6735 	way:0 	size:8 
+29069500: system.cpu.icache: cmd: tag:6 	data:1 16 160 227 64 0 160 227  	set:591 	way:0 	size:8 
+29146000: system.l2: cmd: tag:0 	data:8 32 157 229 240 192 159 229  	set:6736 	way:0 	size:8 
+29156500: system.cpu.icache: cmd: tag:6 	data:8 32 157 229 240 192 159 229  	set:592 	way:0 	size:8 
+29226000: system.l2: cmd: tag:0 	data:196 239 6 0 28 131 9 0  	set:6767 	way:0 	size:8 
+29236500: system.cpu.dcache: cmd: tag:1 	data:196 239 6 0 28 131 9 0  	set:2671 	way:0 	size:8 
+29304000: system.l2: cmd: tag:0 	data:40 34 133 229 4 32 157 229  	set:6737 	way:0 	size:8 
+29314500: system.cpu.icache: cmd: tag:6 	data:40 34 133 229 4 32 157 229  	set:593 	way:0 	size:8 
+29382000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3317 	way:0 	size:8 
+29392500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3317 	way:0 	size:8 
+29392500: system.cpu.dcache: cmd: tag: 14  data: 124  set: 3317  way: 0  size:  4 
+29462000: system.l2: cmd: tag:0 	data:0 0 84 227 48 146 133 229  	set:6738 	way:0 	size:8 
+29472500: system.cpu.icache: cmd: tag:6 	data:0 0 84 227 48 146 133 229  	set:594 	way:0 	size:8 
+29541000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3318 	way:0 	size:8 
+29551500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3318 	way:0 	size:8 
+29551500: system.cpu.dcache: cmd: tag: 14  data: 48  set: 3318  way: 0  size:  4 
+29619000: system.l2: cmd: tag:0 	data:52 66 133 229 4 144 137 16  	set:6739 	way:0 	size:8 
+29629500: system.cpu.icache: cmd: tag:6 	data:52 66 133 229 4 144 137 16  	set:595 	way:0 	size:8 
+29630500: system.cpu.dcache: cmd: tag: 14  data: 4  set: 3318  way: 0  size:  4 
+29699000: system.l2: cmd: tag:0 	data:44 34 133 229 64 18 133 229  	set:6740 	way:0 	size:8 
+29709500: system.cpu.icache: cmd: tag:6 	data:44 34 133 229 64 18 133 229  	set:596 	way:0 	size:8 
+29710500: system.cpu.dcache: cmd: tag: 14  data: 16  set: 3317  way: 0  size:  4 
+29779000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3320 	way:0 	size:8 
+29789500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3320 	way:0 	size:8 
+29789500: system.cpu.dcache: cmd: tag: 14  data: 1  set: 3320  way: 0  size:  4 
+29857000: system.l2: cmd: tag:0 	data:208 32 159 229 0 16 140 229  	set:6741 	way:0 	size:8 
+29867500: system.cpu.icache: cmd: tag:6 	data:208 32 159 229 0 16 140 229  	set:597 	way:0 	size:8 
+29935000: system.l2: cmd: tag:0 	data:252 106 9 0 32 133 9 0  	set:6768 	way:0 	size:8 
+29945500: system.cpu.dcache: cmd: tag:1 	data:252 106 9 0 32 133 9 0  	set:2672 	way:0 	size:8 
+30014000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4195 	way:0 	size:8 
+30024500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:99 	way:0 	size:8 
+30024500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 99  way: 0  size:  4 
+30092000: system.l2: cmd: tag:0 	data:16 64 157 229 200 16 159 229  	set:6742 	way:0 	size:8 
+30102500: system.cpu.icache: cmd: tag:6 	data:16 64 157 229 200 16 159 229  	set:598 	way:0 	size:8 
+30173000: system.l2: cmd: tag:0 	data:1 144 73 18 0 0 130 229  	set:6743 	way:0 	size:8 
+30183500: system.cpu.icache: cmd: tag:6 	data:1 144 73 18 0 0 130 229  	set:599 	way:0 	size:8 
+30252000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3423 	way:0 	size:8 
+30262500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3423 	way:0 	size:8 
+30262500: system.cpu.dcache: cmd: tag: 14  data: 64  set: 3423  way: 0  size:  4 
+30330000: system.l2: cmd: tag:0 	data:20 80 130 229 0 32 129 229  	set:6744 	way:0 	size:8 
+30340500: system.cpu.icache: cmd: tag:6 	data:20 80 130 229 0 32 129 229  	set:600 	way:0 	size:8 
+30408000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:3426 	way:0 	size:8 
+30418500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:3426 	way:0 	size:8 
+30418500: system.cpu.dcache: cmd: tag: 14  data: 128  set: 3426  way: 0  size:  4 
+30487000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4260 	way:0 	size:8 
+30497500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:164 	way:0 	size:8 
+30497500: system.cpu.dcache: cmd: tag: 15  data: 252  set: 164  way: 0  size:  4 
+30565000: system.l2: cmd: tag:0 	data:9 0 160 225 4 16 160 225  	set:6745 	way:0 	size:8 
+30575500: system.cpu.icache: cmd: tag:6 	data:9 0 160 225 4 16 160 225  	set:601 	way:0 	size:8 
+30644000: system.l2: cmd: tag:0 	data:65 55 1 235 4 48 160 225  	set:6746 	way:0 	size:8 
+30654500: system.cpu.icache: cmd: tag:6 	data:65 55 1 235 4 48 160 225  	set:602 	way:0 	size:8 
+30734000: system.l2: cmd: tag:0 	data:144 131 35 224 3 0 160 225  	set:6747 	way:0 	size:8 
+30744500: system.cpu.icache: cmd: tag:6 	data:144 131 35 224 3 0 160 225  	set:603 	way:0 	size:8 
+30813000: system.l2: cmd: tag:0 	data:1 224 160 227 128 48 159 229  	set:6748 	way:0 	size:8 
+30823500: system.cpu.icache: cmd: tag:6 	data:1 224 160 227 128 48 159 229  	set:604 	way:0 	size:8 
+30893000: system.l2: cmd: tag:0 	data:152 16 159 229 0 32 147 229  	set:6749 	way:0 	size:8 
+30903500: system.cpu.icache: cmd: tag:6 	data:152 16 159 229 0 32 147 229  	set:605 	way:0 	size:8 
+30979000: system.l2: cmd: tag:0 	data:20 131 9 0 44 133 9 0  	set:6769 	way:0 	size:8 
+30989500: system.cpu.dcache: cmd: tag:1 	data:20 131 9 0 44 133 9 0  	set:2673 	way:0 	size:8 
+31059000: system.l2: cmd: tag:0 	data:0 0 129 229 15 32 130 226  	set:6750 	way:0 	size:8 
+31069500: system.cpu.icache: cmd: tag:6 	data:0 0 129 229 15 32 130 226  	set:606 	way:0 	size:8 
+31137000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4194 	way:0 	size:8 
+31147500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:98 	way:0 	size:8 
+31147500: system.cpu.dcache: cmd: tag: 15  data: 56  set: 98  way: 0  size:  4 
+31495000: system.l2: cmd: tag:0 	data:0 32 130 224 15 32 194 227  	set:6751 	way:0 	size:8 
+31505500: system.cpu.icache: cmd: tag:6 	data:0 32 130 224 15 32 194 227  	set:607 	way:0 	size:8 
+31574000: system.l2: cmd: tag:0 	data:132 192 159 229 132 16 159 229  	set:6752 	way:0 	size:8 
+31584500: system.cpu.icache: cmd: tag:6 	data:132 192 159 229 132 16 159 229  	set:608 	way:0 	size:8 
+31654000: system.l2: cmd: tag:0 	data:24 131 9 0 4 224 45 229  	set:6770 	way:0 	size:8 
+31664500: system.cpu.dcache: cmd: tag:1 	data:24 131 9 0 4 224 45 229  	set:2674 	way:0 	size:8 
+31732000: system.l2: cmd: tag:0 	data:0 32 131 229 12 48 157 229  	set:6753 	way:0 	size:8 
+31742500: system.cpu.icache: cmd: tag:6 	data:0 32 131 229 12 48 157 229  	set:609 	way:0 	size:8 
+31743500: system.cpu.dcache: cmd: tag: 14  data: 64  set: 2962  way: 0  size:  4 
+31813000: system.l2: cmd: tag:0 	data:0 224 140 229 0 48 129 229  	set:6754 	way:0 	size:8 
+31823500: system.cpu.icache: cmd: tag:6 	data:0 224 140 229 0 48 129 229  	set:610 	way:1 	size:8 
+31905000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4261 	way:0 	size:8 
+31915500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:165 	way:0 	size:8 
+31915500: system.cpu.dcache: cmd: tag: 15  data: 1  set: 165  way: 0  size:  4 
+31917500: system.cpu.dcache: cmd: tag: 15  data: 16  set: 99  way: 0  size:  4 
+31985000: system.l2: cmd: tag:0 	data:28 208 141 226 240 143 189 232  	set:6755 	way:0 	size:8 
+31995500: system.cpu.icache: cmd: tag:6 	data:28 208 141 226 240 143 189 232  	set:611 	way:1 	size:8 
+32071000: system.l2: cmd: tag:0 	data:44 34 159 229 248 49 159 229  	set:6585 	way:0 	size:8 
+32081500: system.cpu.icache: cmd: tag:6 	data:44 34 159 229 248 49 159 229  	set:441 	way:1 	size:8 
+32149000: system.l2: cmd: tag:0 	data:172 133 9 0 144 79 9 0  	set:6655 	way:0 	size:8 
+32159500: system.cpu.dcache: cmd: tag:1 	data:172 133 9 0 144 79 9 0  	set:2559 	way:0 	size:8 
+32229000: system.l2: cmd: tag:0 	data:0 32 146 229 0 16 147 229  	set:6586 	way:0 	size:8 
+32239500: system.cpu.icache: cmd: tag:6 	data:0 32 146 229 0 16 147 229  	set:442 	way:1 	size:8 
+32310000: system.l2: cmd: tag:0 	data:1 0 210 229 0 48 210 229  	set:6587 	way:0 	size:8 
+32320500: system.cpu.icache: cmd: tag:6 	data:1 0 210 229 0 48 210 229  	set:443 	way:1 	size:8 
+32388000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5097 	way:0 	size:8 
+32398500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:1001 	way:0 	size:8 
+32467000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:5096 	way:0 	size:8 
+32477500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:1000 	way:0 	size:8 
+32545000: system.l2: cmd: tag:0 	data:0 0 81 227 2 16 210 229  	set:6588 	way:0 	size:8 
+32555500: system.cpu.icache: cmd: tag:6 	data:0 0 81 227 2 16 210 229  	set:444 	way:1 	size:8 
+32625000: system.l2: cmd: tag:0 	data:0 52 131 225 3 32 210 229  	set:6589 	way:0 	size:8 
+32635500: system.cpu.icache: cmd: tag:6 	data:0 52 131 225 3 32 210 229  	set:445 	way:1 	size:8 
+32705000: system.l2: cmd: tag:0 	data:1 56 131 225 2 60 131 225  	set:6590 	way:0 	size:8 
+32715500: system.cpu.icache: cmd: tag:6 	data:1 56 131 225 2 60 131 225  	set:446 	way:1 	size:8 
+32784000: system.l2: cmd: tag:0 	data:0 34 159 229 255 48 195 227  	set:6591 	way:0 	size:8 
+32794500: system.cpu.icache: cmd: tag:6 	data:0 34 159 229 255 48 195 227  	set:447 	way:0 	size:8 
+32862000: system.l2: cmd: tag:0 	data:152 75 9 0 0 0 0 0  	set:6656 	way:0 	size:8 
+32872500: system.cpu.dcache: cmd: tag:1 	data:152 75 9 0 0 0 0 0  	set:2560 	way:0 	size:8 
+32941000: system.l2: cmd: tag:0 	data:0 48 130 229 91 0 0 10  	set:6592 	way:0 	size:8 
+32951500: system.cpu.icache: cmd: tag:6 	data:0 48 130 229 91 0 0 10  	set:448 	way:0 	size:8 
+33033000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:2419 	way:0 	size:8 
+33043500: system.cpu.dcache: cmd: tag:14 	data:0 0 0 0 0 0 0 0  	set:2419 	way:0 	size:8 
+33043500: system.cpu.dcache: cmd: tag: 14  data: 0  set: 2419  way: 0  size:  4 
+33126000: system.l2: cmd: tag:0 	data:114 116 0 235 0 0 80 227  	set:6639 	way:0 	size:8 
+33136500: system.cpu.icache: cmd: tag:6 	data:114 116 0 235 0 0 80 227  	set:495 	way:0 	size:8 
+33218000: system.l2: cmd: tag:2 	data:48 64 45 233 115 223 77 226  	set:5161 	way:0 	size:8 
+33228500: system.cpu.icache: cmd: tag:21 	data:48 64 45 233 115 223 77 226  	set:41 	way:0 	size:8 
+33229500: system.cpu.dcache: cmd: tag: 15  data: 180  set: 939  way: 0  size:  4 
+33230500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 940  way: 0  size:  4 
+33231500: system.cpu.dcache: cmd: tag: 15  data: 124  set: 940  way: 0  size:  4 
+33300000: system.l2: cmd: tag:2 	data:64 0 141 226 185 122 0 235  	set:5162 	way:0 	size:8 
+33310500: system.cpu.icache: cmd: tag:21 	data:64 0 141 226 185 122 0 235  	set:42 	way:0 	size:8 
+33393000: system.l2: cmd: tag:4 	data:4 112 45 229 122 112 160 227  	set:4488 	way:0 	size:8 
+33403500: system.cpu.icache: cmd: tag:36 	data:4 112 45 229 122 112 160 227  	set:392 	way:0 	size:8 
+33471000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4977 	way:0 	size:8 
+33481500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:881 	way:0 	size:8 
+33481500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 881  way: 0  size:  4 
+33550000: system.l2: cmd: tag:4 	data:0 0 0 239 4 112 157 228  	set:4489 	way:0 	size:8 
+33560500: system.cpu.icache: cmd: tag:36 	data:0 0 0 239 4 112 157 228  	set:393 	way:0 	size:8 
+33561500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 924  way: 0  size:  8 
+33561500: system.l2: cmd: tag: 7  data: 0  set: 5020  way: 0  size:  8 
+33561500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 925  way: 0  size:  8 
+33561500: system.l2: cmd: tag: 7  data: 0  set: 5021  way: 0  size:  8 
+33561500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 926  way: 0  size:  8 
+33561500: system.l2: cmd: tag: 7  data: 0  set: 5022  way: 0  size:  8 
+33561500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 927  way: 0  size:  8 
+33561500: system.l2: cmd: tag: 7  data: 0  set: 5023  way: 0  size:  8 
+33561500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 928  way: 0  size:  8 
+33561500: system.l2: cmd: tag: 7  data: 0  set: 5024  way: 0  size:  8 
+33561500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 929  way: 0  size:  8 
+33561500: system.l2: cmd: tag: 7  data: 0  set: 5025  way: 0  size:  8 
+33561500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 930  way: 0  size:  5 
+33561500: system.l2: cmd: tag: 7  data: 0  set: 5026  way: 0  size:  5 
+33630000: system.l2: cmd: tag:4 	data:1 10 112 227 30 255 47 49  	set:4490 	way:0 	size:8 
+33640500: system.cpu.icache: cmd: tag:36 	data:1 10 112 227 30 255 47 49  	set:394 	way:0 	size:8 
+33709000: system.l2: cmd: tag:2 	data:0 0 80 227 194 32 141 2  	set:5163 	way:0 	size:8 
+33719500: system.cpu.icache: cmd: tag:21 	data:0 0 80 227 194 32 141 2  	set:43 	way:0 	size:8 
+33788000: system.l2: cmd: tag:2 	data:35 0 0 26 0 64 160 227  	set:5164 	way:0 	size:8 
+33798500: system.cpu.icache: cmd: tag:21 	data:35 0 0 26 0 64 160 227  	set:44 	way:0 	size:8 
+33867000: system.l2: cmd: tag:2 	data:4 0 160 225 0 48 210 229  	set:5165 	way:0 	size:8 
+33877500: system.cpu.icache: cmd: tag:21 	data:4 0 160 225 0 48 210 229  	set:45 	way:0 	size:8 
+33946000: system.l2: cmd: tag:7 	data:0 0 51 46 48 46 48 0  	set:5002 	way:0 	size:8 
+33956500: system.cpu.dcache: cmd: tag:15 	data:0 0 51 46 48 46 48 0  	set:906 	way:0 	size:8 
+34024000: system.l2: cmd: tag:2 	data:48 48 67 226 255 16 3 226  	set:5166 	way:0 	size:8 
+34034500: system.cpu.icache: cmd: tag:21 	data:48 48 67 226 255 16 3 226  	set:46 	way:0 	size:8 
+34103000: system.l2: cmd: tag:2 	data:9 0 81 227 23 0 0 138  	set:5167 	way:0 	size:8 
+34113500: system.cpu.icache: cmd: tag:21 	data:9 0 81 227 23 0 0 138  	set:47 	way:0 	size:8 
+34182000: system.l2: cmd: tag:2 	data:1 192 210 229 1 32 130 226  	set:5168 	way:0 	size:8 
+34192500: system.cpu.icache: cmd: tag:21 	data:1 192 210 229 1 32 130 226  	set:48 	way:0 	size:8 
+34262000: system.l2: cmd: tag:2 	data:48 16 76 226 255 224 1 226  	set:5169 	way:0 	size:8 
+34272500: system.cpu.icache: cmd: tag:21 	data:48 16 76 226 255 224 1 226  	set:49 	way:0 	size:8 
+34341000: system.l2: cmd: tag:2 	data:9 0 94 227 6 0 0 138  	set:5170 	way:0 	size:8 
+34351500: system.cpu.icache: cmd: tag:21 	data:9 0 94 227 6 0 0 138  	set:50 	way:0 	size:8 
+34420000: system.l2: cmd: tag:2 	data:248 255 255 154 46 0 92 227  	set:5174 	way:0 	size:8 
+34430500: system.cpu.icache: cmd: tag:21 	data:248 255 255 154 46 0 92 227  	set:54 	way:0 	size:8 
+34498000: system.l2: cmd: tag:2 	data:1 64 132 226 0 4 131 225  	set:5175 	way:0 	size:8 
+34508500: system.cpu.icache: cmd: tag:21 	data:1 64 132 226 0 4 131 225  	set:55 	way:0 	size:8 
+34577000: system.l2: cmd: tag:2 	data:1 32 130 226 3 0 0 26  	set:5176 	way:0 	size:8 
+34587500: system.cpu.icache: cmd: tag:21 	data:1 32 130 226 3 0 0 26  	set:56 	way:0 	size:8 
+34656000: system.l2: cmd: tag:2 	data:3 0 84 227 230 255 255 26  	set:5177 	way:0 	size:8 
+34666500: system.cpu.icache: cmd: tag:21 	data:3 0 84 227 230 255 255 26  	set:57 	way:0 	size:8 
+34773000: system.l2: cmd: tag:2 	data:3 0 84 227 251 255 255 10  	set:5179 	way:0 	size:8 
+34783500: system.cpu.icache: cmd: tag:21 	data:3 0 84 227 251 255 255 10  	set:59 	way:0 	size:8 
+34852000: system.l2: cmd: tag:2 	data:115 223 141 226 48 128 189 232  	set:5178 	way:0 	size:8 
+34862500: system.cpu.icache: cmd: tag:21 	data:115 223 141 226 48 128 189 232  	set:58 	way:0 	size:8 
+34929000: system.l2: cmd: tag:0 	data:10 0 0 186 132 48 159 229  	set:6640 	way:0 	size:8 
+34939500: system.cpu.icache: cmd: tag:6 	data:10 0 0 186 132 48 159 229  	set:496 	way:0 	size:8 
+35008000: system.l2: cmd: tag:0 	data:188 133 9 0 255 1 3 0  	set:6658 	way:0 	size:8 
+35018500: system.cpu.dcache: cmd: tag:1 	data:188 133 9 0 255 1 3 0  	set:2562 	way:0 	size:8 
+35086000: system.l2: cmd: tag:0 	data:0 48 147 229 0 0 83 227  	set:6641 	way:0 	size:8 
+35096500: system.cpu.icache: cmd: tag:6 	data:0 48 147 229 0 0 83 227  	set:497 	way:0 	size:8 
+35164000: system.l2: cmd: tag:7 	data:0 0 0 0 0 0 0 0  	set:4279 	way:0 	size:8 
+35174500: system.cpu.dcache: cmd: tag:15 	data:0 0 0 0 0 0 0 0  	set:183 	way:0 	size:8 
+35243000: system.l2: cmd: tag:0 	data:8 0 0 26 116 48 159 229  	set:6642 	way:0 	size:8 
+35253500: system.cpu.icache: cmd: tag:6 	data:8 0 0 26 116 48 159 229  	set:498 	way:0 	size:8 
+35323000: system.l2: cmd: tag:0 	data:0 0 131 229 112 48 159 229  	set:6643 	way:0 	size:8 
+35333500: system.cpu.icache: cmd: tag:6 	data:0 0 131 229 112 48 159 229  	set:499 	way:0 	size:8 
+35334500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 183  way: 0  size:  4 
+35404000: system.l2: cmd: tag:0 	data:3 0 80 225 151 255 255 202  	set:6644 	way:0 	size:8 
+35414500: system.cpu.icache: cmd: tag:6 	data:3 0 80 225 151 255 255 202  	set:500 	way:0 	size:8 
+35483000: system.l2: cmd: tag:0 	data:104 0 159 229 111 41 0 235  	set:6645 	way:0 	size:8 
+35493500: system.cpu.icache: cmd: tag:6 	data:104 0 159 229 111 41 0 235  	set:501 	way:0 	size:8 
+35561000: system.l2: cmd: tag:0 	data:88 239 6 0 112 239 6 0  	set:6659 	way:0 	size:8 
+35571500: system.cpu.dcache: cmd: tag:1 	data:88 239 6 0 112 239 6 0  	set:2563 	way:0 	size:8 
+35654000: system.l2: cmd: tag:1 	data:0 80 160 225 16 64 45 233  	set:3758 	way:0 	size:8 
+35664500: system.cpu.icache: cmd: tag:11 	data:0 80 160 225 16 64 45 233  	set:686 	way:1 	size:8 
+35666500: system.cpu.dcache: cmd: tag: 15  data: 180  set: 940  way: 0  size:  4 
+35667500: system.cpu.dcache: cmd: tag: 15  data: 176  set: 940  way: 0  size:  4 
+35735000: system.l2: cmd: tag:1 	data:16 64 159 229 5 32 160 225  	set:3759 	way:0 	size:8 
+35745500: system.cpu.icache: cmd: tag:11 	data:16 64 159 229 5 32 160 225  	set:687 	way:1 	size:8 
+35813000: system.l2: cmd: tag:1 	data:20 42 8 0 16 48 159 229  	set:3762 	way:0 	size:8 
+35823500: system.cpu.dcache: cmd: tag:2 	data:20 42 8 0 16 48 159 229  	set:3762 	way:0 	size:8 
+35892000: system.l2: cmd: tag:1 	data:4 16 160 225 3 0 160 227  	set:3760 	way:0 	size:8 
+35902500: system.cpu.icache: cmd: tag:11 	data:4 16 160 225 3 0 160 227  	set:688 	way:1 	size:8 
+35971000: system.l2: cmd: tag:1 	data:71 255 255 235 250 255 255 234  	set:3761 	way:0 	size:8 
+35981500: system.cpu.icache: cmd: tag:11 	data:71 255 255 235 250 255 255 234  	set:689 	way:1 	size:8 
+36049000: system.l2: cmd: tag:1 	data:244 32 3 0 14 0 45 233  	set:3669 	way:0 	size:8 
+36059500: system.cpu.icache: cmd: tag:11 	data:244 32 3 0 14 0 45 233  	set:597 	way:1 	size:8 
+36060500: system.cpu.dcache: cmd: tag: 15  data: 20  set: 938  way: 0  size:  4 
+36061500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 939  way: 0  size:  4 
+36062500: system.cpu.dcache: cmd: tag: 15  data: 255  set: 939  way: 0  size:  4 
+36130000: system.l2: cmd: tag:1 	data:240 79 45 233 32 176 141 226  	set:3670 	way:0 	size:8 
+36140500: system.cpu.icache: cmd: tag:11 	data:240 79 45 233 32 176 141 226  	set:598 	way:1 	size:8 
+36141500: system.cpu.dcache: cmd: tag: 15  data: 20  set: 934  way: 0  size:  4 
+36142500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 934  way: 0  size:  4 
+36143500: system.cpu.dcache: cmd: tag: 15  data: 96  set: 935  way: 0  size:  4 
+36144500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 935  way: 0  size:  4 
+36145500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 936  way: 0  size:  4 
+36146500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 936  way: 0  size:  4 
+36147500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 937  way: 0  size:  4 
+36148500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 937  way: 0  size:  4 
+36149500: system.cpu.dcache: cmd: tag: 15  data: 140  set: 938  way: 0  size:  4 
+36218000: system.l2: cmd: tag:1 	data:24 208 77 226 148 146 159 229  	set:3671 	way:0 	size:8 
+36228500: system.cpu.icache: cmd: tag:11 	data:24 208 77 226 148 146 159 229  	set:599 	way:1 	size:8 
+36297000: system.l2: cmd: tag:1 	data:152 75 9 0 120 101 9 0  	set:3755 	way:0 	size:8 
+36307500: system.cpu.dcache: cmd: tag:2 	data:152 75 9 0 120 101 9 0  	set:3755 	way:0 	size:8 
+36375000: system.l2: cmd: tag:1 	data:8 48 139 226 0 32 153 229  	set:3672 	way:0 	size:8 
+36385500: system.cpu.icache: cmd: tag:11 	data:8 48 139 226 0 32 153 229  	set:600 	way:1 	size:8 
+36455000: system.l2: cmd: tag:1 	data:2 0 16 227 0 160 160 225  	set:3673 	way:0 	size:8 
+36465500: system.cpu.icache: cmd: tag:11 	data:2 0 16 227 0 160 160 225  	set:601 	way:1 	size:8 
+36534000: system.l2: cmd: tag:1 	data:36 32 11 229 40 48 11 229  	set:3674 	way:0 	size:8 
+36544500: system.cpu.icache: cmd: tag:11 	data:36 32 11 229 40 48 11 229  	set:602 	way:1 	size:8 
+36545500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 933  way: 0  size:  4 
+36547500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 933  way: 0  size:  4 
+36615000: system.l2: cmd: tag:1 	data:4 80 155 229 142 0 0 26  	set:3675 	way:0 	size:8 
+36625500: system.cpu.icache: cmd: tag:11 	data:4 80 155 229 142 0 0 26  	set:603 	way:1 	size:8 
+36695000: system.l2: cmd: tag:1 	data:251 255 255 234 64 0 159 229  	set:3747 	way:0 	size:8 
+36705500: system.cpu.icache: cmd: tag:11 	data:251 255 255 234 64 0 159 229  	set:675 	way:1 	size:8 
+36773000: system.l2: cmd: tag:1 	data:184 109 9 0 156 244 6 0  	set:3756 	way:0 	size:8 
+36783500: system.cpu.dcache: cmd: tag:2 	data:184 109 9 0 156 244 6 0  	set:3756 	way:0 	size:8 
+36851000: system.l2: cmd: tag:1 	data:232 122 0 235 0 0 80 227  	set:3748 	way:0 	size:8 
+36861500: system.cpu.icache: cmd: tag:11 	data:232 122 0 235 0 0 80 227  	set:676 	way:1 	size:8 
+36937000: system.l2: cmd: tag:3 	data:20 48 159 229 0 48 147 229  	set:3097 	way:0 	size:8 
+36947500: system.cpu.icache: cmd: tag:27 	data:20 48 159 229 0 48 147 229  	set:25 	way:0 	size:8 
+37015000: system.l2: cmd: tag:3 	data:30 255 47 225 216 79 9 0  	set:3100 	way:0 	size:8 
+37025500: system.cpu.dcache: cmd: tag:6 	data:30 255 47 225 216 79 9 0  	set:3100 	way:0 	size:8 
+37095000: system.l2: cmd: tag:3 	data:0 0 83 227 0 0 0 26  	set:3098 	way:0 	size:8 
+37105500: system.cpu.icache: cmd: tag:27 	data:0 0 83 227 0 0 0 26  	set:26 	way:0 	size:8 
+37174000: system.l2: cmd: tag:3 	data:134 114 255 234 0 0 160 227  	set:3099 	way:0 	size:8 
+37184500: system.cpu.icache: cmd: tag:27 	data:134 114 255 234 0 0 160 227  	set:27 	way:0 	size:8 
+37266000: system.l2: cmd: tag:1 	data:240 71 45 233 0 96 160 225  	set:1375 	way:0 	size:8 
+37276500: system.cpu.icache: cmd: tag:9 	data:240 71 45 233 0 96 160 225  	set:351 	way:0 	size:8 
+37277500: system.cpu.dcache: cmd: tag: 15  data: 20  set: 927  way: 0  size:  4 
+37278500: system.cpu.dcache: cmd: tag: 15  data: 20  set: 927  way: 0  size:  4 
+37279500: system.cpu.dcache: cmd: tag: 15  data: 96  set: 928  way: 0  size:  4 
+37280500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 928  way: 0  size:  4 
+37281500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 929  way: 0  size:  4 
+37282500: system.cpu.dcache: cmd: tag: 15  data: 152  set: 929  way: 0  size:  4 
+37283500: system.cpu.dcache: cmd: tag: 15  data: 3  set: 930  way: 0  size:  4 
+37284500: system.cpu.dcache: cmd: tag: 15  data: 36  set: 930  way: 0  size:  4 
+37353000: system.l2: cmd: tag:1 	data:146 67 0 235 244 48 159 229  	set:1376 	way:0 	size:8 
+37363500: system.cpu.icache: cmd: tag:9 	data:146 67 0 235 244 48 159 229  	set:352 	way:0 	size:8 
+37445000: system.l2: cmd: tag:2 	data:3 16 192 227 4 32 145 228  	set:1834 	way:0 	size:8 
+37455500: system.cpu.icache: cmd: tag:17 	data:3 16 192 227 4 32 145 228  	set:810 	way:0 	size:8 
+37538000: system.l2: cmd: tag:5 	data:108 111 119 0 76 73 66 67  	set:7827 	way:0 	size:8 
+37548500: system.cpu.dcache: cmd: tag:11 	data:108 111 119 0 76 73 66 67  	set:3731 	way:0 	size:8 
+37616000: system.l2: cmd: tag:2 	data:3 48 16 226 0 0 99 226  	set:1835 	way:0 	size:8 
+37626500: system.cpu.icache: cmd: tag:17 	data:3 48 16 226 0 0 99 226  	set:811 	way:0 	size:8 
+37695000: system.l2: cmd: tag:2 	data:4 0 0 10 255 32 130 227  	set:1836 	way:0 	size:8 
+37705500: system.cpu.icache: cmd: tag:17 	data:4 0 0 10 255 32 130 227  	set:812 	way:0 	size:8 
+37773000: system.l2: cmd: tag:2 	data:255 0 18 227 255 12 18 19  	set:1839 	way:0 	size:8 
+37783500: system.cpu.icache: cmd: tag:17 	data:255 0 18 227 255 12 18 19  	set:815 	way:0 	size:8 
+37852000: system.l2: cmd: tag:2 	data:255 8 18 19 255 4 18 19  	set:1840 	way:0 	size:8 
+37862500: system.cpu.icache: cmd: tag:17 	data:255 8 18 19 255 4 18 19  	set:816 	way:0 	size:8 
+37931000: system.l2: cmd: tag:2 	data:4 0 128 18 4 32 145 20  	set:1841 	way:0 	size:8 
+37941500: system.cpu.icache: cmd: tag:17 	data:4 0 128 18 4 32 145 20  	set:817 	way:0 	size:8 
+38010000: system.l2: cmd: tag:5 	data:95 70 65 84 65 76 95 83  	set:7828 	way:0 	size:8 
+38020500: system.cpu.dcache: cmd: tag:11 	data:95 70 65 84 65 76 95 83  	set:3732 	way:0 	size:8 
+38088000: system.l2: cmd: tag:2 	data:248 255 255 26 255 0 18 227  	set:1842 	way:0 	size:8 
+38098500: system.cpu.icache: cmd: tag:17 	data:248 255 255 26 255 0 18 227  	set:818 	way:0 	size:8 
+38180000: system.l2: cmd: tag:5 	data:84 68 69 82 82 95 0 0  	set:7829 	way:0 	size:8 
+38190500: system.cpu.dcache: cmd: tag:11 	data:84 68 69 82 82 95 0 0  	set:3733 	way:0 	size:8 
+38275000: system.l2: cmd: tag:2 	data:1 0 128 18 255 12 18 19  	set:1843 	way:0 	size:8 
+38285500: system.cpu.icache: cmd: tag:17 	data:1 0 128 18 255 12 18 19  	set:819 	way:0 	size:8 
+38354000: system.l2: cmd: tag:2 	data:1 0 128 18 255 8 18 19  	set:1844 	way:0 	size:8 
+38364500: system.cpu.icache: cmd: tag:17 	data:1 0 128 18 255 8 18 19  	set:820 	way:0 	size:8 
+38433000: system.l2: cmd: tag:2 	data:1 0 128 18 30 255 47 225  	set:1845 	way:0 	size:8 
+38443500: system.cpu.icache: cmd: tag:17 	data:1 0 128 18 30 255 47 225  	set:821 	way:0 	size:8 
+38513000: system.l2: cmd: tag:1 	data:72 112 9 0 128 72 45 233  	set:1408 	way:0 	size:8 
+38523500: system.cpu.dcache: cmd: tag:2 	data:72 112 9 0 128 72 45 233  	set:1408 	way:0 	size:8 
+38591000: system.l2: cmd: tag:1 	data:0 80 147 229 0 0 85 227  	set:1377 	way:0 	size:8 
+38601500: system.cpu.icache: cmd: tag:9 	data:0 80 147 229 0 0 85 227  	set:353 	way:0 	size:8 
+38671000: system.l2: cmd: tag:1 	data:56 0 0 10 0 144 214 229  	set:1378 	way:0 	size:8 
+38681500: system.cpu.icache: cmd: tag:9 	data:56 0 0 10 0 144 214 229  	set:354 	way:0 	size:8 
+38751000: system.l2: cmd: tag:1 	data:0 0 89 227 51 0 0 10  	set:1379 	way:0 	size:8 
+38761500: system.cpu.icache: cmd: tag:9 	data:0 0 89 227 51 0 0 10  	set:355 	way:0 	size:8 
+38830000: system.l2: cmd: tag:1 	data:1 48 214 229 0 64 149 229  	set:1380 	way:0 	size:8 
+38840500: system.cpu.icache: cmd: tag:9 	data:1 48 214 229 0 64 149 229  	set:356 	way:0 	size:8 
+38911000: system.l2: cmd: tag:1 	data:0 0 83 227 16 0 0 26  	set:1381 	way:0 	size:8 
+38921500: system.cpu.icache: cmd: tag:9 	data:0 0 83 227 16 0 0 26  	set:357 	way:0 	size:8 
+39281000: system.l2: cmd: tag:1 	data:240 135 189 232 3 148 137 225  	set:1390 	way:0 	size:8 
+39291500: system.cpu.icache: cmd: tag:9 	data:240 135 189 232 3 148 137 225  	set:366 	way:0 	size:8 
+39359000: system.l2: cmd: tag:1 	data:9 152 160 225 0 0 84 227  	set:1391 	way:0 	size:8 
+39369500: system.cpu.icache: cmd: tag:9 	data:9 152 160 225 0 0 84 227  	set:367 	way:0 	size:8 
+39438000: system.l2: cmd: tag:1 	data:0 112 160 225 73 152 160 225  	set:1392 	way:0 	size:8 
+39448500: system.cpu.icache: cmd: tag:9 	data:0 112 160 225 73 152 160 225  	set:368 	way:0 	size:8 
+39517000: system.l2: cmd: tag:1 	data:2 96 134 226 2 128 64 226  	set:1393 	way:0 	size:8 
+39527500: system.cpu.icache: cmd: tag:9 	data:2 96 134 226 2 128 64 226  	set:369 	way:0 	size:8 
+39596000: system.l2: cmd: tag:1 	data:3 0 0 26 244 255 255 234  	set:1394 	way:0 	size:8 
+39606500: system.cpu.icache: cmd: tag:9 	data:3 0 0 26 244 255 255 234  	set:370 	way:0 	size:8 
+39675000: system.l2: cmd: tag:1 	data:2 64 132 226 4 0 160 225  	set:1389 	way:0 	size:8 
+39685500: system.cpu.icache: cmd: tag:9 	data:2 64 132 226 4 0 160 225  	set:365 	way:0 	size:8 
+39773000: system.l2: cmd: tag:1 	data:2 0 0 10 0 48 208 229  	set:3749 	way:0 	size:8 
+39783500: system.cpu.icache: cmd: tag:11 	data:2 0 0 10 0 48 208 229  	set:677 	way:1 	size:8 
+39851000: system.l2: cmd: tag:1 	data:40 16 159 229 40 0 159 229  	set:3751 	way:0 	size:8 
+39861500: system.cpu.icache: cmd: tag:11 	data:40 16 159 229 40 0 159 229  	set:679 	way:1 	size:8 
+39929000: system.l2: cmd: tag:1 	data:2 9 0 0 176 244 6 0  	set:3757 	way:0 	size:8 
+39939500: system.cpu.dcache: cmd: tag:2 	data:2 9 0 0 176 244 6 0  	set:3757 	way:0 	size:8 
+40009000: system.l2: cmd: tag:1 	data:48 59 0 235 1 0 112 227  	set:3752 	way:0 	size:8 
+40019500: system.cpu.icache: cmd: tag:11 	data:48 59 0 235 1 0 112 227  	set:680 	way:1 	size:8 
+40101000: system.l2: cmd: tag:2 	data:14 0 45 233 144 64 45 233  	set:3137 	way:0 	size:8 
+40111500: system.cpu.icache: cmd: tag:19 	data:14 0 45 233 144 64 45 233  	set:65 	way:0 	size:8 
+40112500: system.cpu.dcache: cmd: tag: 15  data: 2  set: 929  way: 0  size:  4 
+40113500: system.cpu.dcache: cmd: tag: 15  data: 82  set: 930  way: 0  size:  4 
+40114500: system.cpu.dcache: cmd: tag: 15  data: 73  set: 930  way: 0  size:  4 
+40116500: system.cpu.dcache: cmd: tag: 15  data: 20  set: 928  way: 0  size:  4 
+40117500: system.cpu.dcache: cmd: tag: 15  data: 88  set: 928  way: 0  size:  4 
+40118500: system.cpu.dcache: cmd: tag: 15  data: 68  set: 929  way: 0  size:  4 
+40186000: system.l2: cmd: tag:2 	data:144 64 159 229 8 208 77 226  	set:3138 	way:0 	size:8 
+40196500: system.cpu.icache: cmd: tag:19 	data:144 64 159 229 8 208 77 226  	set:66 	way:0 	size:8 
+40264000: system.l2: cmd: tag:2 	data:152 75 9 0 0 64 64 0  	set:3157 	way:0 	size:8 
+40274500: system.cpu.dcache: cmd: tag:4 	data:152 75 9 0 0 64 64 0  	set:3157 	way:0 	size:8 
+40343000: system.l2: cmd: tag:2 	data:20 32 157 229 0 192 148 229  	set:3139 	way:0 	size:8 
+40353500: system.cpu.icache: cmd: tag:19 	data:20 32 157 229 0 192 148 229  	set:67 	way:0 	size:8 
+40424000: system.l2: cmd: tag:2 	data:64 48 18 226 0 16 160 225  	set:3140 	way:0 	size:8 
+40434500: system.cpu.icache: cmd: tag:19 	data:64 48 18 226 0 16 160 225  	set:68 	way:0 	size:8 
+40503000: system.l2: cmd: tag:2 	data:4 192 141 229 17 0 0 26  	set:3141 	way:0 	size:8 
+40513500: system.cpu.icache: cmd: tag:19 	data:4 192 141 229 17 0 0 26  	set:69 	way:0 	size:8 
+40514500: system.cpu.dcache: cmd: tag: 15  data: 0  set: 927  way: 0  size:  4 
+40583000: system.l2: cmd: tag:2 	data:116 0 159 229 2 0 208 225  	set:3142 	way:0 	size:8 
+40593500: system.cpu.icache: cmd: tag:19 	data:116 0 159 229 2 0 208 225  	set:70 	way:0 	size:8 
+40663000: system.l2: cmd: tag:2 	data:14 0 0 10 99 0 224 227  	set:3143 	way:0 	size:8 
+40673500: system.cpu.icache: cmd: tag:19 	data:14 0 0 10 99 0 224 227  	set:71 	way:0 	size:8 
+40742000: system.l2: cmd: tag:2 	data:104 112 159 229 0 0 0 239  	set:3144 	way:0 	size:8 
+40752500: system.cpu.icache: cmd: tag:19 	data:104 112 159 229 0 0 0 239  	set:72 	way:0 	size:8 
+40820000: system.l2: cmd: tag:2 	data:66 1 0 0 172 237 5 0  	set:3158 	way:0 	size:8 
+40830500: system.cpu.dcache: cmd: tag:4 	data:66 1 0 0 172 237 5 0  	set:3158 	way:0 	size:8 
